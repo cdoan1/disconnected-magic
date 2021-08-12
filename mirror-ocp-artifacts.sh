@@ -2,9 +2,12 @@
 
 export OCP_RELEASE=4.8.2-x86_64
 export OCP_REGISTRY=quay.io/openshift-release-dev/ocp-release
-export LOCAL_REGISTRY=sre-registry.demo.red-chesterfield.com:5000
+export LOCAL_REGISTRY=sre-registry.local:5000
 export LOCAL_REPOSITORY=ocp4
 export PULL_SECRET_JSON=./pull-secret.json
+export HTTP_PROXY=
+export HTTPS_PROXY=
+export NO_PROXY=
 
 function ocp_mirror_release() {
   oc adm -a ${PULL_SECRET_JSON} release mirror --from=${OCP_REGISTRY}:${OCP_RELEASE} --to=${LOCAL_REGISTRY}/${LOCAL_REPOSITORY} --to-release-image=${LOCAL_REGISTRY}/${LOCAL_REPOSITORY}:${OCP_RELEASE}
