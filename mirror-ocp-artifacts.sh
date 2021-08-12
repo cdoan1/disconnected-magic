@@ -6,9 +6,9 @@ export LOCAL_REGISTRY=$(hostname):5000
 export LOCAL_REPOSITORY=ocp4
 export OCP_RELEASE=4.8.2-x86_64
 export OCP_REGISTRY=quay.io/openshift-release-dev/ocp-release
-export HTTP_PROXY=proxy.hqplan.lab:3128
-export HTTPS_PROXY=proxy.hqplan.lab:3128
-export NO_PROXY=bastion1.hqplan.lab
+export HTTP_PROXY=proxy.local:3128
+export HTTPS_PROXY=proxy.local:3128
+export NO_PROXY=bastion1.local
 
 # Functional
 function ocp_mirror_release() {
