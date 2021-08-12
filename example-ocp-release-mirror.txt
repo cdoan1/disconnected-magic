@@ -1,0 +1,744 @@
+info: Mirroring 136 images to sre-registry.local:5000/ocp4 ...
+sre-registry.local:5000/
+  ocp4
+    blobs:
+      quay.io/openshift-release-dev/ocp-release sha256:88e387be0eb6070bf09113ceae712b38f90b72896933c3cc3f1581ab6a54a589 1.731KiB
+      quay.io/openshift-release-dev/ocp-release sha256:a50df8fd88fecefc26fd331f832672108deb08cf9d2b303a5b86156a7f51b5d8 1.759KiB
+      quay.io/openshift-release-dev/ocp-release sha256:6e455b42877b165e68fce4ef045881c9ff16f083cf2d2bc7625623828c7df9da 515.6KiB
+      quay.io/openshift-release-dev/ocp-release sha256:dc49873df9420a82794cf74fe29dd91ff2260ba279d20ec6a173da1182563c10 1.757MiB
+      quay.io/openshift-release-dev/ocp-release sha256:9ae8e62eba92fbb07f556d2ddef67e2155c933f5c772baad2c091dc0ec65dfd6 10.66MiB
+      quay.io/openshift-release-dev/ocp-release sha256:84bf0cb7b1d510204b414311b79cff7a2738054001032bef4db72f719421716f 21.23MiB
+      quay.io/openshift-release-dev/ocp-release sha256:1cadda38f72dece653de82063e3c8e910265fe7a342ec2fb73ad8e540c47e1f7 79.47MiB
+    blobs:
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:a50df8fd88fecefc26fd331f832672108deb08cf9d2b303a5b86156a7f51b5d8 1.759KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:3cc20c27875a732323d9ac15526bea0bf6461faf35601c838f748e57a3b6d93f 1.818KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:d91cbe08b80e0ae2bdf10e0b0229de4b3c3925bb48816b0641ee0cb635afc649 1.848KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:9e55607d76ffc6bf8312a21e3e816dd0752572af2d04547cde1251307663a614 3.168KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:6f50257d4474d149b355a23effb85c13f61f45a6559c1f73883bf0f7d314b109 4.638KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:0868d6c5f048577a049a450d910274d00334b8456f0b120663b22e1e3d9f54b8 5.548KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:4a0843cb05b06e28258e35e85ec8f7f7569e915a10b6d38912c6a70f4b7a30a4 5.67KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:5a62eaaf20deaaf9baf31af14edc6ced923787ddcdb1cd1b76459bb7aef55504 5.671KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:698386c0d633c219a6ac4438795b4ea392a98981de0bd0a464535aed0fe2b7a3 5.69KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:5b010593d551b59f27b245c4e846bcf673c8ab1b8dbd516988e4bf43f9a5bd92 5.693KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:e33fe4e8e522141d8820c71f18df75ab809f4644c46bc088ac01d5a7588c274d 5.707KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:6aede6ada1fd5756c1f369e7858bd293ed503bbebe093eb5ba80608cc6dbb43c 5.734KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:cffa9ffae3918891c57b097ba00a802040eb337e95a7b2da2d9713e76132f47b 5.737KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:6344e6ee584c81761423b2c754860fc80245ad8c751bc5df850edd233223ced9 5.742KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:d337747f6aa8b0ad333fda75c54f6fe750c4f805e9102b77b4ab0ea7e4959d8e 5.744KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:a2cb98618a0a0431a0c4de13482b83a84ccaad3ac647ee3672b490941e7e06d9 5.752KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:8c15d6d49536d149fa1dfb8c18aa5b1c4b68d0ffdf5b949262925bbf65b145e1 5.754KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:dab50f65960ee9993df5f5de8f05fd0e7694997903c7caccdf45390c896ce257 5.766KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:4c71cac5ad14426ec15c6c6a363671253dd0d2151d203010414f9f6bf4adc340 5.776KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:b8b58f45e2515e745ebe4f5213c576352ce814c686046ee0db7d7ec95d17bfdb 5.806KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:ecee20e90a7cfb067fcd91b3f4aab9d146198ccc18c813f5ae5508409a404429 5.807KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:d06c3dc1a35bfd390a8e222e44ebdd0d413fbf366ac992348d945568fe9ea50e 5.809KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:4825eb423cce75604fcebad104d88300156a91b140ff2763f9faa3ade4dc58d9 5.81KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:b7dad57fd95e1b08a456f9d4e4d5dbf145363f4d96aa6187558eb8ca5f2a67e5 5.81KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:58da11a98ae0ec40bfcdbae50c3584cd2a6c25a4f8d5688f96e25dbf9cf8efea 5.824KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:5fb472f19d68baa0260c3bb8d383abecd80e45929791177b31dc1783fa39d451 5.829KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:a5b880afe01d4beb9b3aff7ddade23f2aa22ace9d8eda9495ca9e43efd2e95d1 5.835KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:44e78ee8def24e85935aa2fdf24006743b3f7e31ac78786f72565630f5801c42 5.837KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:4859689a289a92b1e5cbb8842f0dfb04335f32f82224d1ed30b8ed77d91e49bb 5.841KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:7b18203fb650873838c2a8e12821fafc491752c7a7673b62bf516a1ed23e3f7a 5.842KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:96f4d08179d8a5c193f7e11a5c6aa6d5ee45827b3e1e5e51aa1f12bd7af26d40 5.843KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:c5e28294cbf8a6c87eb02e74fc44528c37dd4b6d124a2555a8e242a87fbad4ec 5.843KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:481ea0bd00904e22469e8982eadaa3f8b70a6cdaa9efd33e85a91bac6e231fc2 5.848KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:705d6b2d2b0a4a1aae7ebb9b0d55e38a1245728d990572eeb47819261eee21a9 5.852KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:a6b2bf3049844d03eb0082dfd5e7fa7ca5aec50b9da839dd2d7d12b31ea8e57f 5.854KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:d81f748fa0cc48fd0566a0d55b7939370dd6abe46a96e9038ba352b298143124 5.854KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:8258543a96b0dc3031e013ca2680db003bb90646a159ec2e9e55c0230dcf66a6 5.859KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:b317eaf90ebdb9f75833fc37a55de117ba458d29b69d707ef4df46f07a327da9 5.865KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:8348e6ba14a8db0adb1b374d5c65d9d13d85565d2e37a34dc21c6b00da11ca11 5.869KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:8dec5857cd1f3a4a2609eeba650c3bdbc594cfe8a835dc58b0ec3c184d13988b 5.869KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:29066ac9ac74cb96bdf2ce08672571ae0fed3c1b2b1852f378286a6825bcce2f 5.88KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:2c2a780b943e128e0b2cf9bccec77a86d839133c1a63d2ac1bdd3f373db342b7 5.883KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:bfc56604cb960c2ebe9b364d125d8c82f03161cd448d10c8c7edf0c68705dd2c 5.883KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:1723c445eea2d04e623105463643d7448ec7a64faa5881c57dace6671a270082 5.884KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:166aa4598750b8fc0820328fc88579dd92448473b7016ca37459fa3893f6e85b 5.888KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:7f4861387b8c2ea65b6193c0e9dfee15fc1980deb724a4ac8e734a011c4640b2 5.891KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:153f14e1043432e7111cb0628cb26736e59ea0ccf7900d8d946b7d0e7e423790 5.892KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:fae457dd03152cd4384ad7806fe53bca10d396eca136382bef7662170816d0c8 5.893KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:4faff586dc5183338ad7eed76b852a121a7e646da3ed92ff43d22fde37320d4f 5.896KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:95b90ae3d07e7f2e420e36f6ccf6de01ad6f72e170ceb47536d80d342b0ddec0 5.896KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:510632fb41b5b1a4067c7b0226fd8a623603c4cf52c844e2abde6ef277c090f7 5.899KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:5725cf27157dfb6c76f3f81e660fc451b115a4063eb369a114fee13ead64e8f3 5.9KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:839477f60385eaa6a4174a547eb8492e0f0038b7f16164f32074e77aefb8c7a6 5.903KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:3b4011082ba3f014bfc277c20b6c1d5f8e658bd18bf769a73c4bd6da54aa0b66 5.904KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:f7989cea7463fdc8457a19bbe25af92df58bd74170c5617e5f78a9e0fdb89ff3 5.904KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:2de7dae54ea2649a289a8e3937fd73b24644bb5b8673d3abbac5205fdeba8d7c 5.905KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:34bb0cd9c8a1c3766c65de03a72c5f9d1839c6606358b8d1542003a6501fcc54 5.906KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:1a1e4713a3f5a354aa9cd00b6d906815b5a08899a23e1fc315e9a43f13ac1038 5.907KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:cba2bd34d00b204ff8ae17c9d06c60a914c0baeec425b067a574b863a84baef2 5.907KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:27b60785b942dbc985eac5d26943d115ac4a0e557e4f60dc11e0da4b4fa07d33 5.916KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:b41d0d3be22d0dfa3abed8c53f9f4b0e1115806e233c788f21ac15f889c47f70 5.92KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:c86b910be14892f27821d6ddae86a27f9f9fa168e4a789c133ff165ce6b53b33 5.922KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:e700b8eb511f51994aff5e83d5d808075279fceeb2185819ab79e9823c6064ff 5.922KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:f3547e1e05d53a978dbcb1a2fb47f338bb630fd6394b4700f51ee87096c2e034 5.925KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:a0091decce126e24bd95bb0cb592fea4347aaf2d6dd7d34db9ff96ed68c40f99 5.926KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:369251d540bf9a2527d25738ca49b26474b7458339400c0926622b6d6b0e6f95 5.932KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:63426a489185d3cacdfb8fced1b67d22b4e32dd317504266b7060d64ce3cd106 5.934KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:26beeace8e9f16b87c78f523ce8728ef352a2263d2723274d6b2d18a14cd0069 5.937KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:6c0d3950a6d76e7d0af9aa98db48e6d44e7d5790d368dd9ad293f0b3871025f2 5.938KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:7cda09638093b9de97f4e04c9ca3219ba9ce2ea0f61cacaad693de34025c34f5 5.949KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:acade092b1e2548cdde65df8d8841cedfdadda4aee69f540b65d0575920cfbdb 5.954KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:1ea32dee72899c632f94f06ff62c4387bc6723798dba815520e4996b5d041053 5.959KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:d60398cc74128d334481333c6db6175dc6bd9f21b0a72c6bb23311893197985c 5.962KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:9c53a6e2ae93a9a9e110902b812eddd606963389ffc8f7b9ce05ae7ff6a40462 5.963KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:99686f9c8e89a28dcaad5899aa31452d97d637fb4b16994f8c6f466daf9fc9e6 5.964KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:c963569a42e6647a87784ea6aad7025758c7ec0c9e3cabe01859c2413fabe3ba 5.964KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:7d5120184ad82450e3ecb1547f8e3dc24aede874fd9d9ed50b828f8c40a20cae 5.969KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:11bb43427f74df8bd05bf015b3595efdb9f6287c2de487a8cb14b3138027c7ea 5.97KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:ead40172f90a052e1a275ce649fbd7b0cc688c8faf3f3d95440e2d6e83d4d538 5.975KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:03e8e2ae75240ec266950681bca790a493692a2399a2021028705da45d0b4cf3 5.977KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:d7eb86fa92ebc89279a8a4fd92921513e14cd2084a9aef0ff2936fe18bc6154b 5.977KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:0a9d3f23ea0086286499a7ab41c966772262aa2dbd2be62b1eec938d6ff46fde 5.98KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:ee8d9d30b65be7ae52520b43de668b3328281bf810f4b3da026b4cb1a3515a9b 5.982KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:afc5c56d06bd0d7f99bb7a6358b8c2404e2f7eefe2422bf96561f196a2707ca7 5.983KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:133d4f98cae441df14b1cde83dd72d28ff9f9fa1f9467fa39fac9a2ab1461f7d 5.987KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:8393e943c6bd154e46c6fb6e9bdaf34f16156150a3c7f27ac28e248cfa2923d0 5.987KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:d593e8f25bbde37b53e60807c81faa4b1028e1ed9785e238169097229351e436 5.996KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:6f14198c5c6bc5cf8e8b22c6292d808507daea4a0607eebfc5236fafad0b90ab 5.997KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:e9fd8348e355a756743cc0f3046614464f8a73b578eefc7f79b6695eb637a616 6KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:da355e6163f106bb134ed7b9f0b3fb9c23fade3ef9e2aaa92575599b73d85983 6.001KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:e9cef1109cf7aaf84789a4005e784320fe67edc3d9b0e693afb024415c6573cc 6.003KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:c939f5790af1e5e04fa21ab9ff678a55434ac5e4e28035e3acc3d2c5bee57683 6.008KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:b199f8da5f525b245794661bada2451ae17aac7a8b53cc37717ddf5c9f2b0ecf 6.011KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:cbeadc59d4cc2007ece24189902b66434cc247f46e383f58ad8ed6b48af8bd61 6.012KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:681102b4c20c13d258f93794aaa5046322bbdf87ec02f6f76f88b74e0325e857 6.013KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:7ac343ab8eac6c534bde81df1e47d57ac36beaa322b45d8fcc74846f272760ed 6.022KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:94fc9906aaba0c321029042b31b145305871fbaf33f05e67964f76c2a71587eb 6.023KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:49dfa9dcc9df28bad054b6ca6967f94c470723c71f5d619570c691deaf86ad2e 6.03KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:d808bb4b4e0494914757c5bae382194b19ea6c7893c1226aa1c2ed018f5713a9 6.03KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:d0d4f487447eb988e3f86e894740d2bf016d5c8aff36dd1b857a0ad9ce09526b 6.035KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:bcfb06e2ff56fef1797514c758f2a7b33bc25371078ced5bbdecf1dc685902cc 6.038KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:32673527ab061f0482629c5539d3db01fe2b417e5391bfc19945e81cf5ceec8a 6.066KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:e8e4f07684811183fa1c08a3c6c10d60b9f6cf6334d1c42f99f314a1b68ec74e 6.068KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:7d0e2f30137cf2b488256d013600e4d4d89d15f2f7b2b9850c92a32efd826db7 6.071KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:4cdca89e5dddec4cb774d87eeb81e127b928d0bb361e13c3e5db1a1075eb0039 6.073KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:bec5fec1b2c67ebfc2748bc3cde5b07f681aa50caac0905a45c725443238c33e 6.086KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:d505dd166f9a58f8fc9342ddeb27ea4296d044142f3923798df150426f612c90 6.093KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:8901369502f6d73c852fb3131b8a002925915c78b3071edcf6bebd6adc0ae09c 6.106KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:2c40a483b02aeac58d3e0058f07b209866f14a16f08e4f183dc09e0ab70461ed 6.107KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:81e20cc6a67b88b4759631cbfc86479ee0fd1d7b882b663208626147e1e3e493 6.113KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:42f5e309029f6a6ff453f7fd71ea9a82815d5a635cadf8dc49dd0ab80abad19a 6.127KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:4014d8642398d92fb1bbdabdb1a5be87a1b016e50c07c1e6360419f154d3da8e 6.128KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:2c6402ca4b6615e507f99eeabead3ae4a4391bc4a916e94e269bb7ba43164f79 6.146KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:348c90169b30df0d42cf0b5de8e1b83e251bf2c7af33ade54bcd44cd6dc52765 6.147KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:7e13555856f902a54a5e4f94bebc2d5250bffe30db00d9717b7187953cc1b8cc 6.147KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:b9be26600b50cdb7a9de40a9ae823866ee9104ef71ec7cd0d593fafb175df92f 6.15KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:9ffc9d1fca0efbab12d63be679b83b8622d1a6b0c5ddfcb17ae5143465012685 6.171KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:6b77cb22408eef3ac3208cd9ec40c22f9634b1cc9ab14be3b2964384fc97914b 6.189KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:a8d506f9246fdd4aa3cc2b49a99477dccbb41e9f302d97561f781226ffabec7c 6.215KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:1a7106df6363601d7ce11077d003db454de846a57a990f9acc8e5e5eeb77b409 6.216KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:45b4ab4b817e2d646f837f2e9f42745348e148e721740773d1e8762c14eabcde 6.231KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:7d72577a109656046390fd1a741792cc179b8857e016f570794db5ebc1f74680 6.235KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:2c665ef23894aa600ca46d9b22af665d9ced7fa5feb9ef51c4dac4d7eb4e43c3 6.242KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:816b0ed32f160b8f9fc2b5515e977d8ea2c8dacc241b71d1e4e64c2470184003 6.286KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:ae4306e7e4e177f79475f23e73d8fe7aad132a3ce7b691deb442cebf0dd8649e 6.323KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:b49fd7044ea6a6756e231648fb87187080055e63cfb0c604050114f139aad623 6.348KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:7ea08a41fb0f8fdbc7c0d2579b6863580ca1906477ad7c8d63ea8c385c186678 6.438KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:418dc2824a195398e9fbed9aa6c9e480ae8bbce49d9fbce9d19a23999b783de3 6.495KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:100e3bf74c5a7e855ecd80a97a9487605919371bd898e8f6a0906a60bfd177ca 6.532KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:df6452f264d00c8048fa42c3956d30b8c9ef9afaf76aed6ab32cc47bde54088f 6.568KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:2602ee4768f05f36dfad0f49b6ca4a3f0f785215e3164aed9ed9b5bdb061a1d5 6.584KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:43368a2d8478b5068e696eb02c274f519c9229d87895ddb98f21569f0c139f6b 6.59KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:4b6c8ee6e57ba24f08e60ee8255a710a485d043fde726cd350e8eca85ef5f68d 6.604KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:6436f0e502ba945d590b4952fbfff63a8035d76623c837d057b39e28c0415c47 6.665KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:4b37bc7534d7ef378724e15875fed8fb7efe3c87dbd0559d232ae2cf05e4dc1b 6.715KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:04f66a2c83f05fd7f43bef4460f10fa9d3cd50c823d8c797c1ae36ad3637b252 6.719KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:5793aa305f56cd7413f1a56c8c5e0b5759aa7fa83336041e46d6e8f4c9094eb8 6.939KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:a705a60fe763132bbf56055297134d34906b261e0bb0965e18f57f1eabd41ad0 7.359KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:6ae23a751f65d72af837f7f7748e38329f60c4a5c442a1a7c8b8456ba72871a6 7.44KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:1add124274b52eac0613c454f90a5f0f0fc10b309d5eefaf572fbaa17cf67077 11.64KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:01972fc31c6dda3d6b60a3a2188da4aed710f63e1ff6580ec4085ebc25057d18 374.4KiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:dc49873df9420a82794cf74fe29dd91ff2260ba279d20ec6a173da1182563c10 1.757MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:c77b59a77193211e0866fa0e9f8f63c7b6e058ff6fc0ae0ab4823bdf0d2cf8df 2.716MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:8b217a4af5726a216030efa678bf55e946725a2c616d4bcc4d89a4396f2eb8c0 3.436MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:a707a8605ee57a7acd251d8923050f90848de29348d7326c801eb19086b821a5 4.802MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:86753a7249e0f56c5cf73403d52d59fe839d3ae62646ef06ee989ca085fd939c 4.964MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:f8be5466c1082b9b1fc9850e12a6d349f521eeab76266de4f650b27a37c3abf8 5.302MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:55c71dc0b8211f5231fa8bfa84f1467d99a7548ab7e795c99fa2eac771e29227 6.016MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:e54ea15cae547cbfd65fc2fbf03f8cdb47d9f92c7cfcbdbffb0e8838a85248ac 6.804MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:a7b50b79b94d3b286e2120c047179d6e49c1cbfe2b8d2025d6ada2d2448076fa 7.519MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:e00459b7be52704548692b5b45330c25f1ab856513ff6c990dcd47b49eb2d634 7.767MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:aade750e151c8de6857c394f8d99666e0f8b1db833f1439d06cdab4f72353be2 8.381MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:8b027d322b2613472e369d1c2551fcbc321747c4bce67fd2ada1d906d49f6294 8.705MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:daa5cff020722deef3f7a0b19dedb5cf0a299101f4c1f7208e637e2dd26346b3 8.922MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:e1186a1b101cbab9b67537c9d1f4977637af495be8e16e04e882599d941b677a 9.381MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:2e41ca5fb22b44b82ce7d08e7436d0965776843a45bcdcf5fc2a38fafe4f027b 9.534MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:9ae8e62eba92fbb07f556d2ddef67e2155c933f5c772baad2c091dc0ec65dfd6 10.66MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:7fa0b7de23a35957be233dcdfa7afc6740dcfc1b71c2492a7f9ffa427b58ad88 11.24MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:81d8463fed00107a392dec5be8a1f3875a2117344ba19f3dad10bff98a6975c0 11.39MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:3925eb5a46cb495bc2197c4bfa2b6a57715db1d525c43b14aadac2fd58e1444d 11.85MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:2b81e2d0f1f7cedb41ae85a1297d5914663b52b55b27c237f6c1ed60fad8c016 12.45MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:70133e5a1e3cd65f90b6acb20916e40fc410fbc220f8ee1dd16e9800508dbf58 13.01MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:23d32b04c2abe26f52e80a4f615ff99d5b2d562b5a27a1b016de27f6d2c6bf85 13.43MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:8e9b61659a3c025ecce0fe0366e674d38e2658704480b4b37c7d82a43a999bb8 14.19MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:5f8d211a6c111e8e8a30a0784194f27b8a4df7504cd79d276760be0ccc5f6c36 14.23MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:54a2de75560a665daccf153c961e801375d761ba5da201d3b8d86c43adb19cdd 14.37MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:479433db20ec9c7902145493710ebf0f95eb74b572935219f58ab7626b35839d 14.61MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:3973f2773155b2c076b3f98513f2e4525e92f533a24615eafc90868b1cef24c8 16.12MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:244e5d3bcbfd93ede359b493f7f6c784e23ed629dd784a2d15dc5f9c76f57881 16.6MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:edffb1f3449807212e7c9975eb58b471f4c480634c159622405b6907c3994500 16.71MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:e46c1c0a41708d0185367005ee48865e38bc45bde8b4179dfbf6cf7527cdc40a 17.16MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:69e86638a664cd896b1352c798d2aa3837c1dfe6198a40828ef5086687922766 17.43MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:4b47e2a09690f3efc6408b62002b0092461ff233dbad44b3daa76318a0add677 17.48MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:8a85f2a45410e43dad789ee7fbdeead50f65a58da616aa69ff0271201d26cda3 17.98MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:ca2724cf5d83a684fc655addbcc82b1eee62e3d0eee1947c278f42a0e1d6904f 18.16MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:d607c34031c7cef978ed64d96a5e8a92fbdc15005dd3748c207161648c564af5 18.18MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:0e2e9f0f81c1e3d9720aaba11e50ad4f67eb23a81a9a1242f8217917d5275c83 18.26MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:8567e8cde94cb2b7a93977a964d4713c81f39030a4f6398db3d3d53ef2f70498 18.75MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:863a972747a5a92b5bc41d8a656b4319e96be21630b3cd1fc64c0cb10b817516 19.74MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:f2b1cb0ba1efe5402bab29575d63123d8d066989af37be42023fff81208b0b80 19.79MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:14c013f2d53d8b078403337123dc173807049ab5e8f7ea34ad60d1c8f93cca08 20MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:f20e096b481847e0d94c72dc7ab40d26bceb41c6aa0c20b023d749ab131b1216 20.16MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:1a8795261df1f4343640347bdca4546cf38fe2ca0ecd4adc73bde5605f36da75 20.99MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:84bf0cb7b1d510204b414311b79cff7a2738054001032bef4db72f719421716f 21.23MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:636fbdbe3898e551d949ee601c058429fd27f093cd19107b53d753fbb99310fc 21.24MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:757744fe4db3d9e0e49127594a86060acfebb4eafd225088118dc14bc72282db 21.35MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:37b6e502523622fb5dd325bb2547609f49d06deaef313fa9e99af72746c671e8 22.19MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:9a9c4b9761576f0cbe21c33a92dc94e398a8bdf2f8dc9fd6691329132da4dc28 22.64MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:9212f278d569e6ae3901ae9b4c08908863b7246da4f90e274817fb49ff5b3ee8 22.82MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:36079a4850fa1901ef5ebe0225e396aa639900805bebb00b1a2b32ec606e93a1 23.74MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:0929b7ac38ca21b5593e574a2a15ed0bbc7c8c0a8b1e39cddbeb483c9ee090a3 23.89MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:9177817247b41ef8612926c6a67b42ca6cd0ad7698e67716f2a6f7b093fadd19 24.31MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:06953f827d564a94becbede785c5824abd88161c607a9d203e8bbb1b65be1eb8 24.37MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:ea0f0721be9df0863e9249a3593202828d4f2bcdcf97d732584cbb3675503695 24.91MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:678e11321443138a09f44985bd4f4f618f711d98ddf388724477df00d1872770 25.04MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:0d6382eeb565f4a7824abc058be9a6db4df37267a7274aaa11222485d393d3d0 25.1MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:e5009a4ec32b0b547b7209a76f870d23e45def9c722181acd2a99c8c7057c101 25.49MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:6591a367dd69b330f5f1e59f1f69fc16be4fbf7388a82c05f229f69bba82c706 25.66MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:16f656fddefb6ee460f618915197aa2f558f8fe4fb481f4c5ab8cfca6cd2edb2 26.04MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:ab42534aed9e042ef14fbbbaf1d9a42ec1c6f59dd4f7a50935504c52019724e9 26.91MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:79cbfb19c13c48b7cd07759b3c3a847c7e95f53ac257d652a02a073cb78101da 27.05MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:b8aa8af9b3479e1af72f7526d8e16cdf86405d15a9862fc967dc3a8425c56a61 28.13MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:0475782e0ed92cfd0e976cfefc9fa3ccb3dd3cb644788fdde610cf63972f070e 28.31MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:ed61728ea87909c36742e996ac023b72f0e48fa5e1590f884c159ad386c00ffd 28.35MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:c10e0b940184f2111e5dd76041cc45f92f3fe36b3d1a2a25bd13f93f8f9e0415 28.6MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:1c74be67bcba5f614b5fc0e42c81325e43c25f7934f3ab2498a4f1897cde18c0 28.6MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:917fc69dd02cce554468e1bce0969c5dc133ba8a0427d08626fd7a3cd461faa1 28.61MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:631cb3f0f1aaf1fc86988f8125c16f087ced3680eaf532a3f4ce57ca4a41dbbb 28.62MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:0077f784d131bca1c7682b143375c583774b9a0b06a7a4e9f4b8359ed5a3e531 28.62MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:a0fac1f9b6b72e0babf8691e2a66e890b561dbe251fa7a59d49a4b446cf159c9 28.66MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:06e15f691618d28b5ded4090cdd9a62b56bf1ef02406dbe0bc5cd5619b10795f 28.69MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:2b1173a5a9dd8f2a13cd017c4e2d30209d2304bdc4cc9e9c644390b28b1486f4 28.7MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:e90c544c3503327f9bac4c3edbb90c07dfb31b92d788ef2dbe221f1c527517ba 28.74MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:de0ebc5b30d831af48bf67e39a31ab7543768c5f99dc73e48c44c0ede86ccc63 28.78MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:a384f4f3214816c049f57e2200bcce3af2583879f7c1ba8af426ab1ac31d7421 28.84MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:7e3c088991402c39e02f59b07ad83f036c9e8211736bf9f78859349e0976fef4 28.99MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:1a8096b25583cce4c65bb61e4c13c26e316439367e202f7afad0961cf1914761 29.1MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:1e239771755518f65ab96fa6ccab0b956da9e9538f17c60456f0d5fc5fb99222 29.21MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:8381c598c4b9d34ded1f945a149a2fbeaef2aaf366b472a6e15220b8f60979d4 29.5MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:4701184247043f073856f1926fc8444f61b38955224ba8a8572d92aeb3b6e1e5 30.1MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:db3fa279da74ea4b26a9f76476af1f7a35fcb23a6dda66489787773bc0f25572 30.11MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:ff39c680d406588ca6b906351c4a43caddbc4ffeebb162f37b633cc6a3a9261a 30.37MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:698aa7856877c588fe6e45ad0f5ae5fdce5c7e4cbab6f7aac6f1c6b128ac8e80 30.73MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:626a15adc8950cc2b4f0c00e91152a9fc9cf77bde49a9b54c1d868f783c83950 30.77MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:0c35f1ef93f723944202ceee5bcc0d5e7634a4d03450bfb2f4eb630dd0b281b4 32.22MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:e5cbbd187d3917dce29e57881e0df5916832540ac16589fa0b012d70f03ada31 32.36MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:3288ce90de91fb3c6feb3ebf8094b26b35832eb011c380a7010ba9e95bf399f3 32.56MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:4ed2b1ce04e993dad395948e5cc2e846beb9755012e93651e15ea0a3bfea42eb 33.83MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:2c3df32179d292f7820bcccedaa870102e74ae9211867fdfe4696057f79a2525 35.24MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:8f419d3dd3bfc9ae99b8d75b59c4211d451b9f77561c3376387aeb3bbfe90cb6 37.29MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:ff539d1d2eb6bb2ee9fe5ed5225f589afcc867ced6b4fcc655e0219e3d2cb93e 37.69MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:bc1ebbc5a9f0f22414f7a45a1b2ccdb9350d216122a74b89fe74719f98ee5564 38.34MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:878a0cac6735cc52b318e2a9ef5158f769fbe40988634f314f54c66d6a3afcf9 38.45MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:da7ac1a4dbbaa9f882a5ce9fb6dde185fef11103a0068ed4cbe3857df7e63eb5 40.02MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:adf2753bce48c7b2b229b084e6aa219e244a45bc32692f77ae4643c2dc026046 40.18MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:c2f5d85874bfc5a93e848d9f827bf8ffd8097932d251c79a6e1a7a160202c9dd 41.1MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:535eb27dda7fa98de38a90389aa6319af55c307326104f60d0fe58792c01100e 41.98MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:acfd84495c4f06d28e2e16002f0846eb83302c305518d5a091be6d7234cf8f9e 43.64MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:f60d00216496e3abd5e551aa2cfe6d9a2a34b04bd69e6835ec7d7e0a610edbf7 44.54MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:446a9dda4b166e8f4d9c712ef78b552ab40d96308d1d34d65c682678b43bf03d 45.29MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:c9bb114cddb09768b74775e45ec3a81d378b5a23b40d3fe31942d7f99f272c2e 45.3MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:12176cb6636e9e7baf179ddf9df9f138a30604c4b415e238dfea9fab3c5a1975 45.67MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:3e84c61ec462a1d5876625c4ae488e85a125c70da92c9502ecb3e1dd9d3bd285 49.09MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:bd462613f446a76f83b25ce2c446ea0c3fe9ffd79c0765975bcb7b31405649b6 50.28MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:dfe9982beb186974af8a36083fa65e025f96eaa85460659bb117141da88a968f 55.47MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:ccec5da9a10af9b020e5a19bbc59ccc8e4c425393977aa282d8e0ac9b1bb56b8 59.35MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:835b1fc9b2e186612e346fc9665212414dfdb0a73ad3df50f4d8879de698dec8 61.95MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:1cadda38f72dece653de82063e3c8e910265fe7a342ec2fb73ad8e540c47e1f7 79.47MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:48a5c604493559127213967d6379b6be2dc51e1a75f2d19de006c43f83f57e80 80.58MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:7495e69612e40020c5bc85b1c37b676e5caeaf77fd16594282150b71c38510c7 82.26MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:5b790c4952aa0327efc0b95a028a1bb882fcfdc09610aa340ba891192fc5ce05 83.77MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:5b343aed0ae294dcff502240a3258e2d46482a5c8ffc622ab149878c09c1af18 85.64MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:8955f65a1734a71961fcaf995f75bd2e18986fcf336833b4aa4ad9a94ed241d9 86.38MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:1f6aa50f210a1905c599bd5b50ac06c05b937f6dc4ca7ac11d41b48df5242b4c 86.61MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:386ad66a0b3de9e51bd8d657e5106e486cc64e216cffc5602d02b85b4796aa29 92.36MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:913b14b0bd7ee8b419f61d0d852a69b1eb36e8f5956b592c751bfab525611436 94.26MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:dfd197ac541a727cda17dbda9d086b921f88ce5e3dc3ad449f1be615813fb772 98.24MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:e9b5e01e194bdcde9d1944c732ef9815dec61adc15a96ae60cd4f7341fdb1915 103.5MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:240bb74c7e71a1f3690f6521aeff3f741f29fe9d336064b6d56c00dc3b986df0 104MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:56b02410dae46df7298ff21fb5d4685b1b24a51d8d8b699046db49a865d29c8b 105.5MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:c44977c0c242ea3219da5592ac1c3ba6072ee7df04333d17021796433cafa472 107.6MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:bce3f208763c5748fb7180d463efcb37b19763625a2e603d8338c1b68e7cee33 109.7MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:0bbebf8bc877a736eec574076f677263ac62a01f556f593c8a905a10efb97ba9 118.1MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:5ccb6384d58e9ec84d7d1e46bff117bede4182ca87e2e6fb8a6622de78e6a1e5 119.6MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:af6ea4acaebbf80215eaa4a5dc73fd55ec4aa01a3dcd3963f2233d72b116bd88 119.9MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:978e93926b9a33b6d679a67f29b06f0bd23e93658a7bcd248ddf717855741b59 123.8MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:67d720494e3242eb3a07480bba246dabf7e25a43e6dd5e902790013a7a8910ef 132.1MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:f8767c33834bdf3b39794a73deff95a6fbc67d777d3b2ded988cde43f0051783 150.4MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:a95e390c280451b41a210a694c95a863a5b79348fd854c40bc554dc49701181f 150.4MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:0717b75174d9852c7ce0aeeb5a3d9eef9a1dab16bcc4c931c4c249381b7991e5 151.8MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:572876ceb605983c68dcd0a940a1c452c8bf35318b9d038c46e017d1e27f5184 232.3MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:e6feb3f1ea39d598096598f937bc36b3bb0b350f7bf6cccf8c1508506282860a 251.2MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:437d92d0635045fd172e7f721e642aa9d5abe8c7c2401e370299090906233d0a 297.9MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:1f639646ea376505d96325680d57284a3b272d4c82dbb21623d53efcaa846ed4 303.8MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:fa2863f0e815c3c64b6133bcb2d71ef2d9d09b6caea321046c3d6edee1b4ac3c 419.3MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:b12ff9498b605ee725df4f4205eaafc18460ce6523dfb255c88bbaf9b58ab625 431.7MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:7b0468de4797e7a15d7d5a4a329a29e5900d42a769290d39abd3fbf065fd8682 432.9MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:24624d4cade7fd3828b5d8e9a4174d61d11f7f97782411d8f015e1a91a34f8f3 435.8MiB
+      quay.io/openshift-release-dev/ocp-v4.0-art-dev sha256:3cda6deae91a9afa6d0f475b3fe94b4266b47993c633713a623b165d67658d61 1.038GiB
+    manifests:
+      sha256:002d5617fcb437eddf99074c8c2f67e2a622d8ef6299bbb5ff7914a61374faf2 -> 4.8.4-x86_64-tools
+      sha256:011e0164b5655627a28e2af065a0e0a52aae83f281b4477c115640b5c5a985a7 -> 4.8.4-x86_64-aws-ebs-csi-driver
+      sha256:03b8419a5840f3d2c9b3b7340d8cf4640895b621581844ca53a1c1798628f536 -> 4.8.4-x86_64-telemeter
+      sha256:056b8acf3829ccee3c1c85796443820e9a15fddcbeb787fa5d6e4d2514a178d3 -> 4.8.4-x86_64-ovn-kubernetes
+      sha256:057aa895d73134f2dd104d9473d9eb3c41914e51ee5da1ff51833314843e506c -> 4.8.4-x86_64-cluster-update-keys
+      sha256:06126157755934dcc1405c0dd9fda75543eb2304754ec2e03a5d268c9749cf65 -> 4.8.4-x86_64-vsphere-csi-driver
+      sha256:06445b0ae0da3993b8bbf74b6f98d18f3bce3ada6afbafdff446d7cea6c31aa0 -> 4.8.4-x86_64-docker-registry
+      sha256:0bbe9ebac91cf9f0e2909dd022e83a9e0f2011bdbfb4890c869df39405fb931f -> 4.8.4-x86_64-prometheus-config-reloader
+      sha256:0bc31444cb1638c74c5731b77374978b34c7becee87807f5a6cf075626b87746 -> 4.8.4-x86_64-driver-toolkit
+      sha256:0df48fe156eab52420b8a7cc7c6b8015030ef54741549c3c2b410f97b379cd96 -> 4.8.4-x86_64-csi-external-attacher
+      sha256:0fba4957b8929f971d8e842bf0539f9bf92a15c2448a00d08e45051dc66e72dd -> 4.8.4-x86_64-docker-builder
+      sha256:10311228e5967c5daa05ec938c6c64d62222035cfef3314797b1a29c5a035e8c -> 4.8.4-x86_64-operator-lifecycle-manager
+      sha256:169fb14145328e22e87febd4bd2357ada0b5ed6293a5cdbd12d9b99bca6c174b -> 4.8.4-x86_64-jenkins
+      sha256:1e9b9b51d11596199cd6a1aebc4c7b6080d3c250b007dbbf083d22e020588b9b -> 4.8.4-x86_64-prom-label-proxy
+      sha256:2369e22821cb8d09b826aeb9ff328d4bebe25aa2410b3084e7a7888c6f361da7 -> 4.8.4-x86_64-operator-registry
+      sha256:272b194c6889337ce2315fa4da7c2f033203fe33f2753025813f6a49b318c8f9 -> 4.8.4-x86_64-cluster-etcd-operator
+      sha256:279a3024378f77e9414f6c47b73e194053d6c45c3ebcc864ec92bbb035a88a61 -> 4.8.4-x86_64-aws-ebs-csi-driver-operator
+      sha256:292f595f049de5f354996eb770f606f66d0923d703c2acd36122c1b218c3182d -> 4.8.4-x86_64-openstack-cinder-csi-driver
+      sha256:2954847cb878cb94536d320ca9f76816c1ed9d7ab831bc38742fe7b5187d7fea -> 4.8.4-x86_64-csi-external-provisioner
+      sha256:2b72a9e915f9ade81fb51beff25ad42bf183d538e44db912f1d6959610824a9c -> 4.8.4-x86_64-network-metrics-daemon
+      sha256:2d8977593f7d4a99fb9cd395d04f5e058d234aa761e5f5f4b11bad6e8a2a18ac -> 4.8.4-x86_64-azure-machine-controllers
+      sha256:2ed4a1ff073136554ec47a5ee4584250278512530159ca6649dd21a7f3d2577f -> 4.8.4-x86_64-haproxy-router
+      sha256:319f02ebc4a8f96f20deb62b74d544540a6f5d2c17f800d68ba0a96d88bbb674 -> 4.8.4-x86_64-openstack-cinder-csi-driver-operator
+      sha256:360bdbae5b886635f8c21e6e93196845523caca505b19703a7addaf2c4e32efd -> 4.8.4-x86_64-cluster-samples-operator
+      sha256:375eecff3c2eb22659f0885890b4ffed232a4365e018796022da0f831c70fb62 -> 4.8.4-x86_64-cluster-csi-snapshot-controller-operator
+      sha256:4216d49cd37cd02e52045718cf5cd2137eb85bd3e1afdb1f5f5a30f9802cfecd -> 4.8.4-x86_64-cluster-ingress-operator
+      sha256:4390dc00f7731bff2d14671613c8916918e871090a027e8ad0a04ad58c60ed78 -> 4.8.4-x86_64-kube-storage-version-migrator
+      sha256:45c41e3121b10fbaec38dafaa020212a3cede85029ac93f4bdfec72b5520e905 -> 4.8.4-x86_64-multus-networkpolicy
+      sha256:47298198befb74a1ce06bb49754a3e3b3599c00a50d98c5f252d257e6b3686be -> 4.8.4-x86_64-kube-state-metrics
+      sha256:4a483b8f91bddd054ff79f8a62d4e68f6d7595b3286caad4833e062790cc7cd7 -> 4.8.4-x86_64-aws-pod-identity-webhook
+      sha256:4b4177e1685ca87211ea699d0701e6023f6f25dcaeddedd0dad449277a5ac4ec -> 4.8.4-x86_64-multus-route-override-cni
+      sha256:4c2ec2033f4419577710f88dcc246fef3655e65490bd1a8a2572e147888c796d -> 4.8.4-x86_64-openstack-machine-controllers
+      sha256:4c779c08e10d60b365fec41b69dcab60e26f2f94a41e7e488d9a2432900d86c9 -> 4.8.4-x86_64-cluster-autoscaler-operator
+      sha256:4e19bb6eee791d5920f9d8c1602ceebb0b9901f66ff76788333947e6178e891a -> 4.8.4-x86_64-ironic
+      sha256:512a8d9ab81b1906e64335cb8af87e9fa6592b9069cee6af31ba46ee609822a2 -> 4.8.4-x86_64-cluster-image-registry-operator
+      sha256:534cd14a2622b3dc17de72395ac3b1ab3ee5aabea0223385d669388c38e8683c -> 4.8.4-x86_64-ironic-hardware-inventory-recorder
+      sha256:543dba6378b73e7b70badec46027cbc0ff484beada36f1fcd7bafac3ad627f7c -> 4.8.4-x86_64-cluster-openshift-controller-manager-operator
+      sha256:55189d415adb18e52efb09a8a9b6f017462b6b1a518262bd09a94537de45bbee -> 4.8.4-x86_64-keepalived-ipfailover
+      sha256:5644d49ef4f5271e6bc12bbee34f88d1c10223be09bb678039ba3b226968e8ac -> 4.8.4-x86_64-machine-api-operator
+      sha256:5a557c28b7652a314d1fb19471bf864bdb79786953651272533779fe49cebc03 -> 4.8.4-x86_64-kuryr-cni
+      sha256:5bf457afa249c7de23e2b11cef4ff31d2bc43056bd049f662a62b4733dba93f0 -> 4.8.4-x86_64-console-operator
+      sha256:5c4dee6907f6257779ab7186155a945e64c51afd89cfc3252ca78cb17722b737 -> 4.8.4-x86_64-aws-machine-controllers
+      sha256:5c6a92b46ce7a6c477f9072d2280eef1ad22f787f876929604ac99d15030fcae -> 4.8.4-x86_64-csi-node-driver-registrar
+      sha256:5e57e0c3b39d9906aabae1cb0070d637fd4189c1b77ef1fac567ab33e025c3e4 -> 4.8.4-x86_64-baremetal-machine-controllers
+      sha256:60e5166781d27481d1c607f4fa5ae552f7d46a9e9ab262a9158f176f773594be -> 4.8.4-x86_64-machine-config-operator
+      sha256:64d6dbb1da4f06088f6f5734e5f57039bcf23bd737e540bc906c911e9ddd2a64 -> 4.8.4-x86_64-csi-livenessprobe
+      sha256:64e304eaf54ead86fb1042830814682fb7b0ca1961ddbdecc6b52ead15441fdc -> 4.8.4-x86_64-cluster-authentication-operator
+      sha256:66199d922e72323288b6836c0f573e872f161335ee10ab9ab988adafcc0f7f41 -> 4.8.4-x86_64-ironic-ipa-downloader
+      sha256:6bd2b6790238c987cf73abd022e73f4c110fd0155d89a70ffea0ddcacc3293d1 -> 4.8.4-x86_64-installer-artifacts
+      sha256:6d57bfd91fac9b68eb72d27226bc297472ceb136c996628b845ecc54a48b31cb -> 4.8.4-x86_64-kube-rbac-proxy
+      sha256:6dfcbcbff78acce4705d57f8472616f9abdec66b60600849a8397141ce6dc483 -> 4.8.4-x86_64-multus-whereabouts-ipam-cni
+      sha256:6e4d0076c6338fba7bb8ff5d553ab20f266e5ea5864f2259ec85aa1dc7d90d54 -> 4.8.4-x86_64-prometheus-operator
+      sha256:6eb96545d7bed1a5da8ff4c9673baf5ad29a44107b47d707285482264b5f75ed -> 4.8.4-x86_64-console
+      sha256:6fcb37d1c32ef93a83c46c7fbca3878d9b2bd6049ddc3b162fc3a7d07ac2d1df -> 4.8.4-x86_64-cluster-bootstrap
+      sha256:72e887092d462320da30bcf484b01c3232ed6b1ed75645e54c62b135ab657e58 -> 4.8.4-x86_64-cluster-autoscaler
+      sha256:73e8e8171e22f1286c9821a96cae917def72d252cfdd069361f9ed167ccae674 -> 4.8.4-x86_64-csi-driver-manila
+      sha256:7581e70b16f8265b920f9e36d7994fc9634361a00abc588335ef4b25a649f555 -> 4.8.4-x86_64-cluster-kube-apiserver-operator
+      sha256:75a9534b1931c21868f5bc91cecc4d381ba06864caf362adc969312a119d25d1 -> 4.8.4-x86_64-k8s-prometheus-adapter
+      sha256:75b618dd985c940afe00c153398cfd552c3d8f9e85db13a50333034cd9904067 -> 4.8.4-x86_64-hyperkube
+      sha256:76897a1b155f7f4e28436d4248d55f5f80b8bd0df8e4af32832fd3d767f0eabb -> 4.8.4-x86_64-prometheus-alertmanager
+      sha256:76c74244fbe4ba30745dcabc1928f1d8aa53d40f0525502968879ae87d3f3748 -> 4.8.4-x86_64-configmap-reloader
+      sha256:79f43bb415f7eef211f416685257d60620efa749a7f1f250384650d0c481b12e -> 4.8.4-x86_64-openshift-controller-manager
+      sha256:7ab0346b7ff58de373ea380dd6c38242741b5323698c30030094c33913876153 -> 4.8.4-x86_64-etcd
+      sha256:7e3513e016559958c164b2309ff656a5bbe4b28000fda088850000139b7be24f -> 4.8.4-x86_64-kuryr-controller
+      sha256:7ed1a02b5effe250fc83824af248de910aa4a8af076d7de7bc9ca01610c6eb22 -> 4.8.4-x86_64-cluster-openshift-apiserver-operator
+      sha256:800b44872006fb8690b10f28c2d463eb90e8e6a6357630e50d9f810f077ee5dc -> 4.8.4-x86_64-libvirt-machine-controllers
+      sha256:8184654218d7aed4f32bf5ce312af4c9c4d5760ef699918f7edd0e2275e1dab6 -> 4.8.4-x86_64-kube-proxy
+      sha256:83dcd39e1f525221dc289053c4defbc6cfd960763c922ece7d79ad3a1c8abb70 -> 4.8.4-x86_64-ovirt-machine-controllers
+      sha256:841535acc09ca8412cd17e8f7702eceda1cac688ccc281278f108675c30de270 -> 4.8.4-x86_64
+      sha256:864b658b93adf38b3b6613225f00e8f3236299cb2f2f02aa16cf6b43eaa19229 -> 4.8.4-x86_64-oauth-proxy
+      sha256:86646fa12c5d88f711857625a4c28f81aae013693054aeb0bebdab0521fafe63 -> 4.8.4-x86_64-prometheus-node-exporter
+      sha256:8740a0ea2dda857e705e09ec5f9ce2315862423c2a3e6a70b03939cb27615377 -> 4.8.4-x86_64-jenkins-agent-nodejs
+      sha256:898445c16577404a3703ffa0c31ce64fd3db5e09473d42908fc0dd5e5b57d200 -> 4.8.4-x86_64-cluster-monitoring-operator
+      sha256:8991776a9651d3eaac5248cee931b7ee49b066bc45332514f8ddab03f1f7519e -> 4.8.4-x86_64-cluster-baremetal-operator
+      sha256:8bfdb27cd29e61d3aeefd43a7f2c66d1c8ee34c6be2332f7aa31c1f9772fa46e -> 4.8.4-x86_64-ironic-machine-os-downloader
+      sha256:8e2babcf2d5085a5a5d4cf646af4e9c173957bd00f4c32a75e2a886ddf0a9931 -> 4.8.4-x86_64-coredns
+      sha256:9093aad76460eff77acbc58e3e6adf37470dc78c35cf42c35061cd480bc937d4 -> 4.8.4-x86_64-insights-operator
+      sha256:90a2381b1083aa91f1b635727d7852eb359405cf009ce11fc8dc726f0e00d43a -> 4.8.4-x86_64-cluster-version-operator
+      sha256:914994722ca8788789339dc185dde72cf61b9840c211e3c7cbc0f393b0925f41 -> 4.8.4-x86_64-ironic-inspector
+      sha256:951a51b56371cd4cb3431ac8a1ef9d5f21a3374f14ff3734cae07fa5704b7b71 -> 4.8.4-x86_64-vsphere-problem-detector
+      sha256:9740cd815427be769fb484ee4c8e929b63ef4bcde3974a3f9c75e659e2726227 -> 4.8.4-x86_64-baremetal-operator
+      sha256:97d6e47c682fba9adba333e22a6e8116404ae20e369a7f90ff869aa9b89c5bef -> 4.8.4-x86_64-vsphere-csi-driver-operator
+      sha256:9997b78f2dd808c755cebb5ad8d74e227132eaf3e5de69623da849e15ad86734 -> 4.8.4-x86_64-csi-driver-manila-operator
+      sha256:9bbaef0b35f03c6680bab9401ba67fc719dfafd10f0f4ee3d8e67fa6da5486a2 -> 4.8.4-x86_64-cli-artifacts
+      sha256:9ca83dd54fc93b45bc94317d13026a9deabc14179016cd7da0404c8234832e5e -> 4.8.4-x86_64-csi-external-snapshotter
+      sha256:9cb74260bb432895880d3e86d5abfd990a236f6cbba66ba05327bf7a833b4a54 -> 4.8.4-x86_64-ironic-static-ip-manager
+      sha256:9e27631ffed84bc32715ca0f8cf9bb9dea6ad87720ecffde2da266c601d4dc7c -> 4.8.4-x86_64-cluster-storage-operator
+      sha256:a3af802116eb0187308b0de76225bb847aaef28935643b4cab31ada47537d2df -> 4.8.4-x86_64-csi-snapshot-controller
+      sha256:a6271a7ad7dc5170484557e184465f370e78d9b9a0694968f1de4ab6d7fc3afc -> 4.8.4-x86_64-network-tools
+      sha256:aa7a922401e67e776144bae349c016a61101623fc09b4b0efb0e43987e84390e -> 4.8.4-x86_64-cluster-dns-operator
+      sha256:aa963222162bbd414fd7f3dcf446f0fde03bfed58a6dc049b6ced0064523aa81 -> 4.8.4-x86_64-oauth-server
+      sha256:ab8e7ad5d62897c00a69afa7bd7be80436b59339e34603b80bb85859b4e45b89 -> 4.8.4-x86_64-openshift-apiserver
+      sha256:ae2ef7fdb99e354178055dc2fe5f04fa686d03d230d55d303aa066942b3fbfcb -> 4.8.4-x86_64-ovirt-csi-driver-operator
+      sha256:af2e8ae2f47e1f7f450b367b50d40367b35d74b3e47531dea88a393345d8ffa8 -> 4.8.4-x86_64-installer
+      sha256:b35bd0d3274a47df1e3afb3dc97a41161d9e84336e0b35c1fd1b05ea2d774866 -> 4.8.4-x86_64-baremetal-runtimecfg
+      sha256:b4679a3bd4d12edab07a0ba385f043cfd92260a0b5316f8e9627d64b52d7143b -> 4.8.4-x86_64-service-ca-operator
+      sha256:b497665bf243737fcf0cb8b3a955333a02cc3424ea20d16cb6c86ba3e63d1f54 -> 4.8.4-x86_64-multus-cni
+      sha256:bad83a7baff83d0fdb014cefc3f7719898b6439333e3c52f81412ccf70f2be86 -> 4.8.4-x86_64-azure-disk-csi-driver
+      sha256:bcdd28d410c40ce6f7a50e83fdf5aef3220b6ce5f6316b1c7e6c0623ed64e1f7 -> 4.8.4-x86_64-cluster-kube-scheduler-operator
+      sha256:bce86bfe3a594dec0670ae67828d3aeabda615e6e763a704ca029370ea5e97b8 -> 4.8.4-x86_64-cluster-kube-storage-version-migrator-operator
+      sha256:becc35ab6eef454cfb75e3e8da49245da530843bfce50ad072e7009004bee2ef -> 4.8.4-x86_64-mdns-publisher
+      sha256:c010c3107ff49de133e60bab4df048a8e0ad60daf07cdcc8c7003f0f4d8d03e6 -> 4.8.4-x86_64-csi-snapshot-validation-webhook
+      sha256:c053a54dc2e4ccac26a60757b680549033de21b1785dba2f5ef1ecd17aa3f58c -> 4.8.4-x86_64-csi-external-resizer
+      sha256:c0ff65ad159d4f2906fa02cbd0bb160e33f321406dfa9904b9ed4e836dcf0f73 -> 4.8.4-x86_64-ovirt-csi-driver
+      sha256:c2b8e512288db109941a5bf0b3b28a7cd9a3ed0d22287b6faf05d124e49ff59c -> 4.8.4-x86_64-jenkins-agent-maven
+      sha256:c708f3c5088f148311ed46883694f2c615ffd61b8edca32ccc1f3a0e660ca139 -> 4.8.4-x86_64-grafana
+      sha256:c7210ebe8b9c7b0799b4188be59bb712e50e1e26a28e0dfa4c7b6f4e9745a1c7 -> 4.8.4-x86_64-cli
+      sha256:c794a7f095013a1574a258691f7502d2ca1c5d017926772eb93e0e3069422c39 -> 4.8.4-x86_64-csi-driver-nfs
+      sha256:c8f4b3d2bb5c9a80565fc37d2c6f402efa233f49051f89c11b65cfff09eda256 -> 4.8.4-x86_64-oauth-apiserver
+      sha256:c98cb29907abb9d0d1e6d257078647c55cb1a487df5ea228748a4802efb3b8ff -> 4.8.4-x86_64-azure-disk-csi-driver-operator
+      sha256:ce218cb4868d8b3c2ec4800923f0b5b1924e6a984d12cede5329ca92624c5845 -> 4.8.4-x86_64-multus-admission-controller
+      sha256:cea2193458e240fe2ba7b8755fcd4eca49ca1cf9cd5ee5fd289764a9c8a18f68 -> 4.8.4-x86_64-openshift-state-metrics
+      sha256:cf2ac984513b0df207610a0d93bd5562b30d0b9db66302ae341887b9fe450ff5 -> 4.8.4-x86_64-deployer
+      sha256:d01a9173ec33161c09aa6e60e20a9a4e5213e2a6b643caa7df2e54e9641a7ecc -> 4.8.4-x86_64-tests
+      sha256:d2b881afe7c815345ed716edd8dd055226d854f3bcfc0a22351720f2ba9b4cb1 -> 4.8.4-x86_64-jenkins-agent-base
+      sha256:dca2cb8d63d38a6e464017ac8faf17a79b4d77b1fa9de8a7e2d64ca66d0b99bd -> 4.8.4-x86_64-pod
+      sha256:dd12f83534ebc8bbb48e88ca55876e07e87cada507d8f6cf902d7cac8f945552 -> 4.8.4-x86_64-gcp-machine-controllers
+      sha256:ddebecc8f78c931e26dbd523887f4303407aa633096de47b91046c3cb010d8d2 -> 4.8.4-x86_64-gcp-pd-csi-driver-operator
+      sha256:defb9435af74998eb9a4896591cfa83b0370fef4372c07662facd2ea7ef62d1a -> 4.8.4-x86_64-cluster-kube-controller-manager-operator
+      sha256:e0257d2fdd9fb8dd9d88c191fad76fbdf826825ab0e15cd36d46befb80efb598 -> 4.8.4-x86_64-cluster-node-tuning-operator
+      sha256:e168d23f2cff71998ad8be17686054988babf8689ccc5919fc7648aaf9e90dbf -> 4.8.4-x86_64-gcp-pd-csi-driver
+      sha256:e1c622a6e8d0c61d23e3dcd01e8b4dc6108c997fe111a5966f65c43dae468e39 -> 4.8.4-x86_64-prometheus
+      sha256:e1d3148c0265119d9dbb7b5e84756114da50f32384764ff7d92d3b7c025c813a -> 4.8.4-x86_64-vsphere-csi-driver-syncer
+      sha256:e24f456f14c631b240f69f2574e09da91e2f6a55e4c1722e5bf0bfc01d0c8d03 -> 4.8.4-x86_64-operator-marketplace
+      sha256:e3bf5aca8392e6654f4336fef680f3ecfddbbafa0335b5b39c558c770accaa16 -> 4.8.4-x86_64-cluster-policy-controller
+      sha256:e453feff46d739d4b8efd39a018ac9177ce60840c2c86465b69f285291303b3a -> 4.8.4-x86_64-container-networking-plugins
+      sha256:e70152b984118f5d799379cce2c2daa5285ef909e07386c62e46808f92bce1dd -> 4.8.4-x86_64-cluster-config-operator
+      sha256:ebc67790579c5fc64e38e802b89067c46ab9affa9b8924290a492688a1b5f40f -> 4.8.4-x86_64-machine-os-content
+      sha256:eede85cbd33388f7e18954e5ce8ad9616e91df05ace604966c0a44111d85c897 -> 4.8.4-x86_64-must-gather
+      sha256:f1b4a346e892f7f4e9afa5438e38c526e086da6819faa59f225940ac8426099e -> 4.8.4-x86_64-sdn
+      sha256:f251c3338bf4c76f7ca2bdb8630b3b623a5c0c6d736e1dffb53d12f31a16d997 -> 4.8.4-x86_64-cloud-credential-operator
+      sha256:f62e472dc52795e520686022ecca69a3ef4ddd0e08617a3b3f05f13fbd69a3b0 -> 4.8.4-x86_64-cluster-network-operator
+      sha256:f8d17c6d01836188a4e66023469a999bb07915adda3f5682283d9d719b4297b0 -> 4.8.4-x86_64-cluster-machine-approver
+      sha256:f9329bdf8d23e5bee621e449b63403d8bc012dde1592454a38f6f6423a755729 -> 4.8.4-x86_64-egress-router-cni
+      sha256:fedb316063c42baa890555591cb49a151c24ba02d347d8ccccfafd12ba781067 -> 4.8.4-x86_64-thanos
+      sha256:ff5c0b6a2d78009e754bf4c07d87d1756736dd11b2c3dc3ee57c27563c54d8e8 -> 4.8.4-x86_64-baremetal-installer
+  stats: shared=5 unique=276 size=8.742GiB ratio=0.99
+
+phase 0:
+  sre-registry.local:5000 ocp4 blobs=281 mounts=0 manifests=136 shared=5
+
+info: Planning completed in 26.27s
+uploading: sre-registry.local:5000/ocp4 sha256:1cadda38f72dece653de82063e3c8e910265fe7a342ec2fb73ad8e540c47e1f7 79.47MiB
+uploading: sre-registry.local:5000/ocp4 sha256:dc49873df9420a82794cf74fe29dd91ff2260ba279d20ec6a173da1182563c10 1.757MiB
+uploading: sre-registry.local:5000/ocp4 sha256:6e455b42877b165e68fce4ef045881c9ff16f083cf2d2bc7625623828c7df9da 515.6KiB
+uploading: sre-registry.local:5000/ocp4 sha256:9ae8e62eba92fbb07f556d2ddef67e2155c933f5c772baad2c091dc0ec65dfd6 10.66MiB
+uploading: sre-registry.local:5000/ocp4 sha256:3973f2773155b2c076b3f98513f2e4525e92f533a24615eafc90868b1cef24c8 16.12MiB
+uploading: sre-registry.local:5000/ocp4 sha256:84bf0cb7b1d510204b414311b79cff7a2738054001032bef4db72f719421716f 21.23MiB
+uploading: sre-registry.local:5000/ocp4 sha256:1f6aa50f210a1905c599bd5b50ac06c05b937f6dc4ca7ac11d41b48df5242b4c 86.61MiB
+uploading: sre-registry.local:5000/ocp4 sha256:daa5cff020722deef3f7a0b19dedb5cf0a299101f4c1f7208e637e2dd26346b3 8.922MiB
+uploading: sre-registry.local:5000/ocp4 sha256:bce3f208763c5748fb7180d463efcb37b19763625a2e603d8338c1b68e7cee33 109.7MiB
+uploading: sre-registry.local:5000/ocp4 sha256:fa2863f0e815c3c64b6133bcb2d71ef2d9d09b6caea321046c3d6edee1b4ac3c 419.3MiB
+uploading: sre-registry.local:5000/ocp4 sha256:79cbfb19c13c48b7cd07759b3c3a847c7e95f53ac257d652a02a073cb78101da 27.05MiB
+uploading: sre-registry.local:5000/ocp4 sha256:23d32b04c2abe26f52e80a4f615ff99d5b2d562b5a27a1b016de27f6d2c6bf85 13.43MiB
+uploading: sre-registry.local:5000/ocp4 sha256:f20e096b481847e0d94c72dc7ab40d26bceb41c6aa0c20b023d749ab131b1216 20.16MiB
+uploading: sre-registry.local:5000/ocp4 sha256:06953f827d564a94becbede785c5824abd88161c607a9d203e8bbb1b65be1eb8 24.37MiB
+uploading: sre-registry.local:5000/ocp4 sha256:e00459b7be52704548692b5b45330c25f1ab856513ff6c990dcd47b49eb2d634 7.767MiB
+uploading: sre-registry.local:5000/ocp4 sha256:f2b1cb0ba1efe5402bab29575d63123d8d066989af37be42023fff81208b0b80 19.79MiB
+uploading: sre-registry.local:5000/ocp4 sha256:240bb74c7e71a1f3690f6521aeff3f741f29fe9d336064b6d56c00dc3b986df0 104MiB
+uploading: sre-registry.local:5000/ocp4 sha256:ea0f0721be9df0863e9249a3593202828d4f2bcdcf97d732584cbb3675503695 24.91MiB
+uploading: sre-registry.local:5000/ocp4 sha256:d607c34031c7cef978ed64d96a5e8a92fbdc15005dd3748c207161648c564af5 18.18MiB
+uploading: sre-registry.local:5000/ocp4 sha256:48a5c604493559127213967d6379b6be2dc51e1a75f2d19de006c43f83f57e80 80.58MiB
+uploading: sre-registry.local:5000/ocp4 sha256:dfe9982beb186974af8a36083fa65e025f96eaa85460659bb117141da88a968f 55.47MiB
+uploading: sre-registry.local:5000/ocp4 sha256:a707a8605ee57a7acd251d8923050f90848de29348d7326c801eb19086b821a5 4.802MiB
+uploading: sre-registry.local:5000/ocp4 sha256:978e93926b9a33b6d679a67f29b06f0bd23e93658a7bcd248ddf717855741b59 123.8MiB
+uploading: sre-registry.local:5000/ocp4 sha256:757744fe4db3d9e0e49127594a86060acfebb4eafd225088118dc14bc72282db 21.35MiB
+uploading: sre-registry.local:5000/ocp4 sha256:acfd84495c4f06d28e2e16002f0846eb83302c305518d5a091be6d7234cf8f9e 43.64MiB
+uploading: sre-registry.local:5000/ocp4 sha256:8a85f2a45410e43dad789ee7fbdeead50f65a58da616aa69ff0271201d26cda3 17.98MiB
+uploading: sre-registry.local:5000/ocp4 sha256:3288ce90de91fb3c6feb3ebf8094b26b35832eb011c380a7010ba9e95bf399f3 32.56MiB
+uploading: sre-registry.local:5000/ocp4 sha256:14c013f2d53d8b078403337123dc173807049ab5e8f7ea34ad60d1c8f93cca08 20MiB
+uploading: sre-registry.local:5000/ocp4 sha256:24624d4cade7fd3828b5d8e9a4174d61d11f7f97782411d8f015e1a91a34f8f3 435.8MiB
+uploading: sre-registry.local:5000/ocp4 sha256:e54ea15cae547cbfd65fc2fbf03f8cdb47d9f92c7cfcbdbffb0e8838a85248ac 6.804MiB
+uploading: sre-registry.local:5000/ocp4 sha256:db3fa279da74ea4b26a9f76476af1f7a35fcb23a6dda66489787773bc0f25572 30.11MiB
+uploading: sre-registry.local:5000/ocp4 sha256:2b1173a5a9dd8f2a13cd017c4e2d30209d2304bdc4cc9e9c644390b28b1486f4 28.7MiB
+uploading: sre-registry.local:5000/ocp4 sha256:8f419d3dd3bfc9ae99b8d75b59c4211d451b9f77561c3376387aeb3bbfe90cb6 37.29MiB
+uploading: sre-registry.local:5000/ocp4 sha256:a384f4f3214816c049f57e2200bcce3af2583879f7c1ba8af426ab1ac31d7421 28.84MiB
+uploading: sre-registry.local:5000/ocp4 sha256:626a15adc8950cc2b4f0c00e91152a9fc9cf77bde49a9b54c1d868f783c83950 30.77MiB
+uploading: sre-registry.local:5000/ocp4 sha256:5b343aed0ae294dcff502240a3258e2d46482a5c8ffc622ab149878c09c1af18 85.64MiB
+uploading: sre-registry.local:5000/ocp4 sha256:446a9dda4b166e8f4d9c712ef78b552ab40d96308d1d34d65c682678b43bf03d 45.29MiB
+uploading: sre-registry.local:5000/ocp4 sha256:7fa0b7de23a35957be233dcdfa7afc6740dcfc1b71c2492a7f9ffa427b58ad88 11.24MiB
+uploading: sre-registry.local:5000/ocp4 sha256:edffb1f3449807212e7c9975eb58b471f4c480634c159622405b6907c3994500 16.71MiB
+uploading: sre-registry.local:5000/ocp4 sha256:3e84c61ec462a1d5876625c4ae488e85a125c70da92c9502ecb3e1dd9d3bd285 49.09MiB
+uploading: sre-registry.local:5000/ocp4 sha256:de0ebc5b30d831af48bf67e39a31ab7543768c5f99dc73e48c44c0ede86ccc63 28.78MiB
+uploading: sre-registry.local:5000/ocp4 sha256:572876ceb605983c68dcd0a940a1c452c8bf35318b9d038c46e017d1e27f5184 232.3MiB
+uploading: sre-registry.local:5000/ocp4 sha256:f8767c33834bdf3b39794a73deff95a6fbc67d777d3b2ded988cde43f0051783 150.4MiB
+uploading: sre-registry.local:5000/ocp4 sha256:3cda6deae91a9afa6d0f475b3fe94b4266b47993c633713a623b165d67658d61 1.038GiB
+uploading: sre-registry.local:5000/ocp4 sha256:437d92d0635045fd172e7f721e642aa9d5abe8c7c2401e370299090906233d0a 297.9MiB
+uploading: sre-registry.local:5000/ocp4 sha256:479433db20ec9c7902145493710ebf0f95eb74b572935219f58ab7626b35839d 14.61MiB
+uploading: sre-registry.local:5000/ocp4 sha256:bc1ebbc5a9f0f22414f7a45a1b2ccdb9350d216122a74b89fe74719f98ee5564 38.34MiB
+uploading: sre-registry.local:5000/ocp4 sha256:0d6382eeb565f4a7824abc058be9a6db4df37267a7274aaa11222485d393d3d0 25.1MiB
+uploading: sre-registry.local:5000/ocp4 sha256:12176cb6636e9e7baf179ddf9df9f138a30604c4b415e238dfea9fab3c5a1975 45.67MiB
+error: unable to push quay.io/openshift-release-dev/ocp-v4.0-art-dev: failed to upload blob sha256:d7eb86fa92ebc89279a8a4fd92921513e14cd2084a9aef0ff2936fe18bc6154b: Post "https://sre-registry.local:5000/v2/ocp4/blobs/uploads/": no basic auth credentials
+error: unable to upload blob sha256:7fa0b7de23a35957be233dcdfa7afc6740dcfc1b71c2492a7f9ffa427b58ad88 to sre-registry.local:5000/ocp4: Post "https://sre-registry.local:5000/v2/ocp4/blobs/uploads/": no basic auth credentials
+error: unable to push quay.io/openshift-release-dev/ocp-v4.0-art-dev: failed to upload blob sha256:9e55607d76ffc6bf8312a21e3e816dd0752572af2d04547cde1251307663a614: Post "https://sre-registry.local:5000/v2/ocp4/blobs/uploads/": no basic auth credentials
+error: unable to upload blob sha256:db3fa279da74ea4b26a9f76476af1f7a35fcb23a6dda66489787773bc0f25572 to sre-registry.local:5000/ocp4: Post "https://sre-registry.local:5000/v2/ocp4/blobs/uploads/": no basic auth credentials
+error: unable to upload blob sha256:1cadda38f72dece653de82063e3c8e910265fe7a342ec2fb73ad8e540c47e1f7 to sre-registry.demo.red-chesterfield.cuploading: sre-registry.local:5000/ocp4 sha256:631cb3f0f1aaf1fc86988f8125c16f087ced3680eaf532a3f4ce57ca4a41dbbb 28.62MiB
+uploading: sre-registry.local:5000/ocp4 sha256:e1186a1b101cbab9b67537c9d1f4977637af495be8e16e04e882599d941b677a 9.381MiB
+uploading: sre-registry.local:5000/ocp4 sha256:878a0cac6735cc52b318e2a9ef5158f769fbe40988634f314f54c66d6a3afcf9 38.45MiB
+uploading: sre-registry.local:5000/ocp4 sha256:0475782e0ed92cfd0e976cfefc9fa3ccb3dd3cb644788fdde610cf63972f070e 28.31MiB
+uploading: sre-registry.local:5000/ocp4 sha256:9a9c4b9761576f0cbe21c33a92dc94e398a8bdf2f8dc9fd6691329132da4dc28 22.64MiB
+uploading: sre-registry.local:5000/ocp4 sha256:7e3c088991402c39e02f59b07ad83f036c9e8211736bf9f78859349e0976fef4 28.99MiB
+uploading: sre-registry.local:5000/ocp4 sha256:a95e390c280451b41a210a694c95a863a5b79348fd854c40bc554dc49701181f 150.4MiB
+uploading: sre-registry.local:5000/ocp4 sha256:535eb27dda7fa98de38a90389aa6319af55c307326104f60d0fe58792c01100e 41.98MiB
+uploading: sre-registry.local:5000/ocp4 sha256:56b02410dae46df7298ff21fb5d4685b1b24a51d8d8b699046db49a865d29c8b 105.5MiB
+uploading: sre-registry.local:5000/ocp4 sha256:a0fac1f9b6b72e0babf8691e2a66e890b561dbe251fa7a59d49a4b446cf159c9 28.66MiB
+uploading: sre-registry.local:5000/ocp4 sha256:2e41ca5fb22b44b82ce7d08e7436d0965776843a45bcdcf5fc2a38fafe4f027b 9.534MiB
+uploading: sre-registry.local:5000/ocp4 sha256:86753a7249e0f56c5cf73403d52d59fe839d3ae62646ef06ee989ca085fd939c 4.964MiB
+uploading: sre-registry.local:5000/ocp4 sha256:adf2753bce48c7b2b229b084e6aa219e244a45bc32692f77ae4643c2dc026046 40.18MiB
+uploading: sre-registry.local:5000/ocp4 sha256:dfd197ac541a727cda17dbda9d086b921f88ce5e3dc3ad449f1be615813fb772 98.24MiB
+uploading: sre-registry.local:5000/ocp4 sha256:ab42534aed9e042ef14fbbbaf1d9a42ec1c6f59dd4f7a50935504c52019724e9 26.91MiB
+uploading: sre-registry.local:5000/ocp4 sha256:c10e0b940184f2111e5dd76041cc45f92f3fe36b3d1a2a25bd13f93f8f9e0415 28.6MiB
+uploading: sre-registry.local:5000/ocp4 sha256:3925eb5a46cb495bc2197c4bfa2b6a57715db1d525c43b14aadac2fd58e1444d 11.85MiB
+uploading: sre-registry.local:5000/ocp4 sha256:8b027d322b2613472e369d1c2551fcbc321747c4bce67fd2ada1d906d49f6294 8.705MiB
+uploading: sre-registry.local:5000/ocp4 sha256:e90c544c3503327f9bac4c3edbb90c07dfb31b92d788ef2dbe221f1c527517ba 28.74MiB
+uploading: sre-registry.local:5000/ocp4 sha256:1a8096b25583cce4c65bb61e4c13c26e316439367e202f7afad0961cf1914761 29.1MiB
+uploading: sre-registry.local:5000/ocp4 sha256:1f639646ea376505d96325680d57284a3b272d4c82dbb21623d53efcaa846ed4 303.8MiB
+uploading: sre-registry.local:5000/ocp4 sha256:c77b59a77193211e0866fa0e9f8f63c7b6e058ff6fc0ae0ab4823bdf0d2cf8df 2.716MiB
+uploading: sre-registry.local:5000/ocp4 sha256:54a2de75560a665daccf153c961e801375d761ba5da201d3b8d86c43adb19cdd 14.37MiB
+uploading: sre-registry.local:5000/ocp4 sha256:01972fc31c6dda3d6b60a3a2188da4aed710f63e1ff6580ec4085ebc25057d18 374.4KiB
+uploading: sre-registry.local:5000/ocp4 sha256:5b790c4952aa0327efc0b95a028a1bb882fcfdc09610aa340ba891192fc5ce05 83.77MiB
+uploading: sre-registry.local:5000/ocp4 sha256:bd462613f446a76f83b25ce2c446ea0c3fe9ffd79c0765975bcb7b31405649b6 50.28MiB
+uploading: sre-registry.local:5000/ocp4 sha256:55c71dc0b8211f5231fa8bfa84f1467d99a7548ab7e795c99fa2eac771e29227 6.016MiB
+uploading: sre-registry.local:5000/ocp4 sha256:913b14b0bd7ee8b419f61d0d852a69b1eb36e8f5956b592c751bfab525611436 94.26MiB
+uploading: sre-registry.local:5000/ocp4 sha256:e5009a4ec32b0b547b7209a76f870d23e45def9c722181acd2a99c8c7057c101 25.49MiB
+uploading: sre-registry.local:5000/ocp4 sha256:8b217a4af5726a216030efa678bf55e946725a2c616d4bcc4d89a4396f2eb8c0 3.436MiB
+uploading: sre-registry.local:5000/ocp4 sha256:ff539d1d2eb6bb2ee9fe5ed5225f589afcc867ced6b4fcc655e0219e3d2cb93e 37.69MiB
+uploading: sre-registry.local:5000/ocp4 sha256:c2f5d85874bfc5a93e848d9f827bf8ffd8097932d251c79a6e1a7a160202c9dd 41.1MiB
+uploading: sre-registry.local:5000/ocp4 sha256:1a8795261df1f4343640347bdca4546cf38fe2ca0ecd4adc73bde5605f36da75 20.99MiB
+uploading: sre-registry.local:5000/ocp4 sha256:b8aa8af9b3479e1af72f7526d8e16cdf86405d15a9862fc967dc3a8425c56a61 28.13MiB
+uploading: sre-registry.local:5000/ocp4 sha256:da7ac1a4dbbaa9f882a5ce9fb6dde185fef11103a0068ed4cbe3857df7e63eb5 40.02MiB
+uploading: sre-registry.local:5000/ocp4 sha256:7b0468de4797e7a15d7d5a4a329a29e5900d42a769290d39abd3fbf065fd8682 432.9MiB
+uploading: sre-registry.local:5000/ocp4 sha256:c9bb114cddb09768b74775e45ec3a81d378b5a23b40d3fe31942d7f99f272c2e 45.3MiB
+uploading: sre-registry.local:5000/ocp4 sha256:0c35f1ef93f723944202ceee5bcc0d5e7634a4d03450bfb2f4eb630dd0b281b4 32.22MiB
+uploading: sre-registry.local:5000/ocp4 sha256:8955f65a1734a71961fcaf995f75bd2e18986fcf336833b4aa4ad9a94ed241d9 86.38MiB
+uploading: sre-registry.local:5000/ocp4 sha256:0929b7ac38ca21b5593e574a2a15ed0bbc7c8c0a8b1e39cddbeb483c9ee090a3 23.89MiB
+uploading: sre-registry.local:5000/ocp4 sha256:5ccb6384d58e9ec84d7d1e46bff117bede4182ca87e2e6fb8a6622de78e6a1e5 119.6MiB
+uploading: sre-registry.local:5000/ocp4 sha256:8381c598c4b9d34ded1f945a149a2fbeaef2aaf366b472a6e15220b8f60979d4 29.5MiB
+uploading: sre-registry.local:5000/ocp4 sha256:70133e5a1e3cd65f90b6acb20916e40fc410fbc220f8ee1dd16e9800508dbf58 13.01MiB
+uploading: sre-registry.local:5000/ocp4 sha256:af6ea4acaebbf80215eaa4a5dc73fd55ec4aa01a3dcd3963f2233d72b116bd88 119.9MiB
+uploading: sre-registry.local:5000/ocp4 sha256:9212f278d569e6ae3901ae9b4c08908863b7246da4f90e274817fb49ff5b3ee8 22.82MiB
+uploading: sre-registry.local:5000/ocp4 sha256:0bbebf8bc877a736eec574076f677263ac62a01f556f593c8a905a10efb97ba9 118.1MiB
+uploading: sre-registry.local:5000/ocp4 sha256:0e2e9f0f81c1e3d9720aaba11e50ad4f67eb23a81a9a1242f8217917d5275c83 18.26MiB
+uploading: sre-registry.local:5000/ocp4 sha256:698aa7856877c588fe6e45ad0f5ae5fdce5c7e4cbab6f7aac6f1c6b128ac8e80 30.73MiB
+uploading: sre-registry.local:5000/ocp4 sha256:0717b75174d9852c7ce0aeeb5a3d9eef9a1dab16bcc4c931c4c249381b7991e5 151.8MiB
+uploading: sre-registry.local:5000/ocp4 sha256:f60d00216496e3abd5e551aa2cfe6d9a2a34b04bd69e6835ec7d7e0a610edbf7 44.54MiB
+uploading: sre-registry.local:5000/ocp4 sha256:1e239771755518f65ab96fa6ccab0b956da9e9538f17c60456f0d5fc5fb99222 29.21MiB
+uploading: sre-registry.local:5000/ocp4 sha256:7495e69612e40020c5bc85b1c37b676e5caeaf77fd16594282150b71c38510c7 82.26MiB
+uploading: sre-registry.local:5000/ocp4 sha256:1c74be67bcba5f614b5fc0e42c81325e43c25f7934f3ab2498a4f1897cde18c0 28.6MiB
+uploading: sre-registry.local:5000/ocp4 sha256:e46c1c0a41708d0185367005ee48865e38bc45bde8b4179dfbf6cf7527cdc40a 17.16MiB
+uploading: sre-registry.local:5000/ocp4 sha256:b12ff9498b605ee725df4f4205eaafc18460ce6523dfb255c88bbaf9b58ab625 431.7MiB
+uploading: sre-registry.local:5000/ocp4 sha256:0077f784d131bca1c7682b143375c583774b9a0b06a7a4e9f4b8359ed5a3e531 28.62MiB
+uploading: sre-registry.local:5000/ocp4 sha256:67d720494e3242eb3a07480bba246dabf7e25a43e6dd5e902790013a7a8910ef 132.1MiB
+uploading: sre-registry.local:5000/ocp4 sha256:863a972747a5a92b5bc41d8a656b4319e96be21630b3cd1fc64c0cb10b817516 19.74MiB
+uploading: sre-registry.local:5000/ocp4 sha256:386ad66a0b3de9e51bd8d657e5106e486cc64e216cffc5602d02b85b4796aa29 92.36MiB
+uploading: sre-registry.local:5000/ocp4 sha256:917fc69dd02cce554468e1bce0969c5dc133ba8a0427d08626fd7a3cd461faa1 28.61MiB
+uploading: sre-registry.local:5000/ocp4 sha256:81d8463fed00107a392dec5be8a1f3875a2117344ba19f3dad10bff98a6975c0 11.39MiB
+uploading: sre-registry.local:5000/ocp4 sha256:2b81e2d0f1f7cedb41ae85a1297d5914663b52b55b27c237f6c1ed60fad8c016 12.45MiB
+uploading: sre-registry.local:5000/ocp4 sha256:06e15f691618d28b5ded4090cdd9a62b56bf1ef02406dbe0bc5cd5619b10795f 28.69MiB
+uploading: sre-registry.local:5000/ocp4 sha256:4ed2b1ce04e993dad395948e5cc2e846beb9755012e93651e15ea0a3bfea42eb 33.83MiB
+uploading: sre-registry.local:5000/ocp4 sha256:4b47e2a09690f3efc6408b62002b0092461ff233dbad44b3daa76318a0add677 17.48MiB
+uploading: sre-registry.local:5000/ocp4 sha256:835b1fc9b2e186612e346fc9665212414dfdb0a73ad3df50f4d8879de698dec8 61.95MiB
+uploading: sre-registry.local:5000/ocp4 sha256:ff39c680d406588ca6b906351c4a43caddbc4ffeebb162f37b633cc6a3a9261a 30.37MiB
+uploading: sre-registry.local:5000/ocp4 sha256:ca2724cf5d83a684fc655addbcc82b1eee62e3d0eee1947c278f42a0e1d6904f 18.16MiB
+uploading: sre-registry.local:5000/ocp4 sha256:37b6e502523622fb5dd325bb2547609f49d06deaef313fa9e99af72746c671e8 22.19MiB
+uploading: sre-registry.local:5000/ocp4 sha256:8e9b61659a3c025ecce0fe0366e674d38e2658704480b4b37c7d82a43a999bb8 14.19MiB
+uploading: sre-registry.local:5000/ocp4 sha256:aade750e151c8de6857c394f8d99666e0f8b1db833f1439d06cdab4f72353be2 8.381MiB
+uploading: sre-registry.local:5000/ocp4 sha256:678e11321443138a09f44985bd4f4f618f711d98ddf388724477df00d1872770 25.04MiB
+uploading: sre-registry.local:5000/ocp4 sha256:e5cbbd187d3917dce29e57881e0df5916832540ac16589fa0b012d70f03ada31 32.36MiB
+uploading: sre-registry.local:5000/ocp4 sha256:36079a4850fa1901ef5ebe0225e396aa639900805bebb00b1a2b32ec606e93a1 23.74MiB
+uploading: sre-registry.local:5000/ocp4 sha256:e6feb3f1ea39d598096598f937bc36b3bb0b350f7bf6cccf8c1508506282860a 251.2MiB
+uploading: sre-registry.local:5000/ocp4 sha256:9177817247b41ef8612926c6a67b42ca6cd0ad7698e67716f2a6f7b093fadd19 24.31MiB
+uploading: sre-registry.local:5000/ocp4 sha256:e9b5e01e194bdcde9d1944c732ef9815dec61adc15a96ae60cd4f7341fdb1915 103.5MiBuploading: sre-registry.local:5000/ocp4 sha256:ccec5da9a10af9b020e5a19bbc59ccc8e4c425393977aa282d8e0ac9b1bb56b8 59.35MiB
+uploading: sre-registry.local:5000/ocp4 sha256:69e86638a664cd896b1352c798d2aa3837c1dfe6198a40828ef5086687922766 17.43MiB
+uploading: sre-registry.local:5000/ocp4 sha256:244e5d3bcbfd93ede359b493f7f6c784e23ed629dd784a2d15dc5f9c76f57881 16.6MiB
+uploading: sre-registry.local:5000/ocp4 sha256:4701184247043f073856f1926fc8444f61b38955224ba8a8572d92aeb3b6e1e5 30.1MiB
+uploading: sre-registry.local:5000/ocp4 sha256:f8be5466c1082b9b1fc9850e12a6d349f521eeab76266de4f650b27a37c3abf8 5.302MiB
+uploading: sre-registry.local:5000/ocp4 sha256:16f656fddefb6ee460f618915197aa2f558f8fe4fb481f4c5ab8cfca6cd2edb2 26.04MiB
+uploading: sre-registry.local:5000/ocp4 sha256:ed61728ea87909c36742e996ac023b72f0e48fa5e1590f884c159ad386c00ffd 28.35MiB
+uploading: sre-registry.local:5000/ocp4 sha256:2c3df32179d292f7820bcccedaa870102e74ae9211867fdfe4696057f79a2525 35.24MiB
+uploading: sre-registry.local:5000/ocp4 sha256:a7b50b79b94d3b286e2120c047179d6e49c1cbfe2b8d2025d6ada2d2448076fa 7.519MiB
+uploading: sre-registry.local:5000/ocp4 sha256:636fbdbe3898e551d949ee601c058429fd27f093cd19107b53d753fbb99310fc 21.24MiB
+uploading: sre-registry.local:5000/ocp4 sha256:6591a367dd69b330f5f1e59f1f69fc16be4fbf7388a82c05f229f69bba82c706 25.66MiB
+uploading: sre-registry.local:5000/ocp4 sha256:5f8d211a6c111e8e8a30a0784194f27b8a4df7504cd79d276760be0ccc5f6c36 14.23MiB
+uploading: sre-registry.local:5000/ocp4 sha256:8567e8cde94cb2b7a93977a964d4713c81f39030a4f6398db3d3d53ef2f70498 18.75MiB
+sha256:64d6dbb1da4f06088f6f5734e5f57039bcf23bd737e540bc906c911e9ddd2a64 sre-registry.local:5000/ocp4:4.8.4-x86_64-csi-livenessprobe
+sha256:9cb74260bb432895880d3e86d5abfd990a236f6cbba66ba05327bf7a833b4a54 sre-registry.local:5000/ocp4:4.8.4-x86_64-ironic-static-ip-manager
+sha256:2ed4a1ff073136554ec47a5ee4584250278512530159ca6649dd21a7f3d2577f sre-registry.local:5000/ocp4:4.8.4-x86_64-haproxy-router
+sha256:c7210ebe8b9c7b0799b4188be59bb712e50e1e26a28e0dfa4c7b6f4e9745a1c7 sre-registry.local:5000/ocp4:4.8.4-x86_64-cli
+sha256:97d6e47c682fba9adba333e22a6e8116404ae20e369a7f90ff869aa9b89c5bef sre-registry.local:5000/ocp4:4.8.4-x86_64-vsphere-csi-driver-operator
+sha256:9740cd815427be769fb484ee4c8e929b63ef4bcde3974a3f9c75e659e2726227 sre-registry.local:5000/ocp4:4.8.4-x86_64-baremetal-operator
+sha256:4390dc00f7731bff2d14671613c8916918e871090a027e8ad0a04ad58c60ed78 sre-registry.local:5000/ocp4:4.8.4-x86_64-kube-storage-version-migrator
+sha256:f62e472dc52795e520686022ecca69a3ef4ddd0e08617a3b3f05f13fbd69a3b0 sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-network-operator
+sha256:c708f3c5088f148311ed46883694f2c615ffd61b8edca32ccc1f3a0e660ca139 sre-registry.local:5000/ocp4:4.8.4-x86_64-grafana
+sha256:03b8419a5840f3d2c9b3b7340d8cf4640895b621581844ca53a1c1798628f536 sre-registry.local:5000/ocp4:4.8.4-x86_64-telemeter
+sha256:f251c3338bf4c76f7ca2bdb8630b3b623a5c0c6d736e1dffb53d12f31a16d997 sre-registry.local:5000/ocp4:4.8.4-x86_64-cloud-credential-operator
+sha256:fedb316063c42baa890555591cb49a151c24ba02d347d8ccccfafd12ba781067 sre-registry.local:5000/ocp4:4.8.4-x86_64-thanos
+sha256:af2e8ae2f47e1f7f450b367b50d40367b35d74b3e47531dea88a393345d8ffa8 sre-registry.local:5000/ocp4:4.8.4-x86_64-installer
+sha256:e1c622a6e8d0c61d23e3dcd01e8b4dc6108c997fe111a5966f65c43dae468e39 sre-registry.local:5000/ocp4:4.8.4-x86_64-prometheus
+sha256:76897a1b155f7f4e28436d4248d55f5f80b8bd0df8e4af32832fd3d767f0eabb sre-registry.local:5000/ocp4:4.8.4-x86_64-prometheus-alertmanager
+sha256:dd12f83534ebc8bbb48e88ca55876e07e87cada507d8f6cf902d7cac8f945552 sre-registry.local:5000/ocp4:4.8.4-x86_64-gcp-machine-controllers
+sha256:e1d3148c0265119d9dbb7b5e84756114da50f32384764ff7d92d3b7c025c813a sre-registry.local:5000/ocp4:4.8.4-x86_64-vsphere-csi-driver-syncer
+sha256:c0ff65ad159d4f2906fa02cbd0bb160e33f321406dfa9904b9ed4e836dcf0f73 sre-registry.local:5000/ocp4:4.8.4-x86_64-ovirt-csi-driver
+sha256:e70152b984118f5d799379cce2c2daa5285ef909e07386c62e46808f92bce1dd sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-config-operator
+sha256:e0257d2fdd9fb8dd9d88c191fad76fbdf826825ab0e15cd36d46befb80efb598 sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-node-tuning-operator
+sha256:864b658b93adf38b3b6613225f00e8f3236299cb2f2f02aa16cf6b43eaa19229 sre-registry.local:5000/ocp4:4.8.4-x86_64-oauth-proxy
+sha256:8184654218d7aed4f32bf5ce312af4c9c4d5760ef699918f7edd0e2275e1dab6 sre-registry.local:5000/ocp4:4.8.4-x86_64-kube-proxy
+sha256:7e3513e016559958c164b2309ff656a5bbe4b28000fda088850000139b7be24f sre-registry.local:5000/ocp4:4.8.4-x86_64-kuryr-controller
+sha256:4c2ec2033f4419577710f88dcc246fef3655e65490bd1a8a2572e147888c796d sre-registry.local:5000/ocp4:4.8.4-x86_64-openstack-machine-controllers
+sha256:c010c3107ff49de133e60bab4df048a8e0ad60daf07cdcc8c7003f0f4d8d03e6 sre-registry.local:5000/ocp4:4.8.4-x86_64-csi-snapshot-validation-webhook
+sha256:bcdd28d410c40ce6f7a50e83fdf5aef3220b6ce5f6316b1c7e6c0623ed64e1f7 sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-kube-scheduler-operator
+sha256:60e5166781d27481d1c607f4fa5ae552f7d46a9e9ab262a9158f176f773594be sre-registry.local:5000/ocp4:4.8.4-x86_64-machine-config-operator
+sha256:914994722ca8788789339dc185dde72cf61b9840c211e3c7cbc0f393b0925f41 sre-registry.local:5000/ocp4:4.8.4-x86_64-ironic-inspector
+sha256:ebc67790579c5fc64e38e802b89067c46ab9affa9b8924290a492688a1b5f40f sre-registry.local:5000/ocp4:4.8.4-x86_64-machine-os-content
+sha256:aa7a922401e67e776144bae349c016a61101623fc09b4b0efb0e43987e84390e sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-dns-operator
+sha256:4b4177e1685ca87211ea699d0701e6023f6f25dcaeddedd0dad449277a5ac4ec sre-registry.local:5000/ocp4:4.8.4-x86_64-multus-route-override-cni
+sha256:c794a7f095013a1574a258691f7502d2ca1c5d017926772eb93e0e3069422c39 sre-registry.local:5000/ocp4:4.8.4-x86_64-csi-driver-nfs
+sha256:75a9534b1931c21868f5bc91cecc4d381ba06864caf362adc969312a119d25d1 sre-registry.local:5000/ocp4:4.8.4-x86_64-k8s-prometheus-adapter
+sha256:8991776a9651d3eaac5248cee931b7ee49b066bc45332514f8ddab03f1f7519e sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-baremetal-operator
+sha256:f9329bdf8d23e5bee621e449b63403d8bc012dde1592454a38f6f6423a755729 sre-registry.local:5000/ocp4:4.8.4-x86_64-egress-router-cni
+sha256:8740a0ea2dda857e705e09ec5f9ce2315862423c2a3e6a70b03939cb27615377 sre-registry.local:5000/ocp4:4.8.4-x86_64-jenkins-agent-nodejs
+sha256:9997b78f2dd808c755cebb5ad8d74e227132eaf3e5de69623da849e15ad86734 sre-registry.local:5000/ocp4:4.8.4-x86_64-csi-driver-manila-operator
+sha256:360bdbae5b886635f8c21e6e93196845523caca505b19703a7addaf2c4e32efd sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-samples-operator
+sha256:aa963222162bbd414fd7f3dcf446f0fde03bfed58a6dc049b6ced0064523aa81 sre-registry.local:5000/ocp4:4.8.4-x86_64-oauth-server
+sha256:5644d49ef4f5271e6bc12bbee34f88d1c10223be09bb678039ba3b226968e8ac sre-registry.local:5000/ocp4:4.8.4-x86_64-machine-api-operator
+sha256:ddebecc8f78c931e26dbd523887f4303407aa633096de47b91046c3cb010d8d2 sre-registry.local:5000/ocp4:4.8.4-x86_64-gcp-pd-csi-driver-operator
+sha256:d2b881afe7c815345ed716edd8dd055226d854f3bcfc0a22351720f2ba9b4cb1 sre-registry.local:5000/ocp4:4.8.4-x86_64-jenkins-agent-base
+sha256:9ca83dd54fc93b45bc94317d13026a9deabc14179016cd7da0404c8234832e5e sre-registry.local:5000/ocp4:4.8.4-x86_64-csi-external-snapshotter
+sha256:e453feff46d739d4b8efd39a018ac9177ce60840c2c86465b69f285291303b3a sre-registry.local:5000/ocp4:4.8.4-x86_64-container-networking-plugins
+sha256:319f02ebc4a8f96f20deb62b74d544540a6f5d2c17f800d68ba0a96d88bbb674 sre-registry.local:5000/ocp4:4.8.4-x86_64-openstack-cinder-csi-driver-operator
+sha256:06126157755934dcc1405c0dd9fda75543eb2304754ec2e03a5d268c9749cf65 sre-registry.local:5000/ocp4:4.8.4-x86_64-vsphere-csi-driver
+sha256:5a557c28b7652a314d1fb19471bf864bdb79786953651272533779fe49cebc03 sre-registry.local:5000/ocp4:4.8.4-x86_64-kuryr-cni
+sha256:7ed1a02b5effe250fc83824af248de910aa4a8af076d7de7bc9ca01610c6eb22 sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-openshift-apiserver-operator
+sha256:2b72a9e915f9ade81fb51beff25ad42bf183d538e44db912f1d6959610824a9c sre-registry.local:5000/ocp4:4.8.4-x86_64-network-metrics-daemon
+sha256:83dcd39e1f525221dc289053c4defbc6cfd960763c922ece7d79ad3a1c8abb70 sre-registry.local:5000/ocp4:4.8.4-x86_64-ovirt-machine-controllers
+sha256:72e887092d462320da30bcf484b01c3232ed6b1ed75645e54c62b135ab657e58 sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-autoscaler
+sha256:ce218cb4868d8b3c2ec4800923f0b5b1924e6a984d12cede5329ca92624c5845 sre-registry.local:5000/ocp4:4.8.4-x86_64-multus-admission-controller
+sha256:0bbe9ebac91cf9f0e2909dd022e83a9e0f2011bdbfb4890c869df39405fb931f sre-registry.local:5000/ocp4:4.8.4-x86_64-prometheus-config-reloader
+sha256:002d5617fcb437eddf99074c8c2f67e2a622d8ef6299bbb5ff7914a61374faf2 sre-registry.local:5000/ocp4:4.8.4-x86_64-tools
+sha256:898445c16577404a3703ffa0c31ce64fd3db5e09473d42908fc0dd5e5b57d200 sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-monitoring-operator
+sha256:800b44872006fb8690b10f28c2d463eb90e8e6a6357630e50d9f810f077ee5dc sre-registry.local:5000/ocp4:4.8.4-x86_64-libvirt-machine-controllers
+sha256:543dba6378b73e7b70badec46027cbc0ff484beada36f1fcd7bafac3ad627f7c sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-openshift-controller-manager-operator
+sha256:86646fa12c5d88f711857625a4c28f81aae013693054aeb0bebdab0521fafe63 sre-registry.local:5000/ocp4:4.8.4-x86_64-prometheus-node-exporter
+sha256:2954847cb878cb94536d320ca9f76816c1ed9d7ab831bc38742fe7b5187d7fea sre-registry.local:5000/ocp4:4.8.4-x86_64-csi-external-provisioner
+sha256:4a483b8f91bddd054ff79f8a62d4e68f6d7595b3286caad4833e062790cc7cd7 sre-registry.local:5000/ocp4:4.8.4-x86_64-aws-pod-identity-webhook
+sha256:0fba4957b8929f971d8e842bf0539f9bf92a15c2448a00d08e45051dc66e72dd sre-registry.local:5000/ocp4:4.8.4-x86_64-docker-builder
+sha256:5e57e0c3b39d9906aabae1cb0070d637fd4189c1b77ef1fac567ab33e025c3e4 sre-registry.local:5000/ocp4:4.8.4-x86_64-baremetal-machine-controllers
+sha256:cea2193458e240fe2ba7b8755fcd4eca49ca1cf9cd5ee5fd289764a9c8a18f68 sre-registry.local:5000/ocp4:4.8.4-x86_64-openshift-state-metrics
+sha256:9bbaef0b35f03c6680bab9401ba67fc719dfafd10f0f4ee3d8e67fa6da5486a2 sre-registry.local:5000/ocp4:4.8.4-x86_64-cli-artifacts
+sha256:b497665bf243737fcf0cb8b3a955333a02cc3424ea20d16cb6c86ba3e63d1f54 sre-registry.local:5000/ocp4:4.8.4-x86_64-multus-cni
+sha256:10311228e5967c5daa05ec938c6c64d62222035cfef3314797b1a29c5a035e8c sre-registry.local:5000/ocp4:4.8.4-x86_64-operator-lifecycle-manager
+sha256:0df48fe156eab52420b8a7cc7c6b8015030ef54741549c3c2b410f97b379cd96 sre-registry.local:5000/ocp4:4.8.4-x86_64-csi-external-attacher
+sha256:f1b4a346e892f7f4e9afa5438e38c526e086da6819faa59f225940ac8426099e sre-registry.local:5000/ocp4:4.8.4-x86_64-sdn
+sha256:73e8e8171e22f1286c9821a96cae917def72d252cfdd069361f9ed167ccae674 sre-registry.local:5000/ocp4:4.8.4-x86_64-csi-driver-manila
+sha256:534cd14a2622b3dc17de72395ac3b1ab3ee5aabea0223385d669388c38e8683c sre-registry.local:5000/ocp4:4.8.4-x86_64-ironic-hardware-inventory-recorder
+sha256:1e9b9b51d11596199cd6a1aebc4c7b6080d3c250b007dbbf083d22e020588b9b sre-registry.local:5000/ocp4:4.8.4-x86_64-prom-label-proxy
+sha256:5bf457afa249c7de23e2b11cef4ff31d2bc43056bd049f662a62b4733dba93f0 sre-registry.local:5000/ocp4:4.8.4-x86_64-console-operator
+sha256:375eecff3c2eb22659f0885890b4ffed232a4365e018796022da0f831c70fb62 sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-csi-snapshot-controller-operator
+sha256:dca2cb8d63d38a6e464017ac8faf17a79b4d77b1fa9de8a7e2d64ca66d0b99bd sre-registry.local:5000/ocp4:4.8.4-x86_64-pod
+sha256:8e2babcf2d5085a5a5d4cf646af4e9c173957bd00f4c32a75e2a886ddf0a9931 sre-registry.local:5000/ocp4:4.8.4-x86_64-coredns
+sha256:c98cb29907abb9d0d1e6d257078647c55cb1a487df5ea228748a4802efb3b8ff sre-registry.local:5000/ocp4:4.8.4-x86_64-azure-disk-csi-driver-operator
+sha256:6e4d0076c6338fba7bb8ff5d553ab20f266e5ea5864f2259ec85aa1dc7d90d54 sre-registry.local:5000/ocp4:4.8.4-x86_64-prometheus-operator
+sha256:ab8e7ad5d62897c00a69afa7bd7be80436b59339e34603b80bb85859b4e45b89 sre-registry.local:5000/ocp4:4.8.4-x86_64-openshift-apiserver
+sha256:cf2ac984513b0df207610a0d93bd5562b30d0b9db66302ae341887b9fe450ff5 sre-registry.local:5000/ocp4:4.8.4-x86_64-deployer
+sha256:9093aad76460eff77acbc58e3e6adf37470dc78c35cf42c35061cd480bc937d4 sre-registry.local:5000/ocp4:4.8.4-x86_64-insights-operator
+sha256:e168d23f2cff71998ad8be17686054988babf8689ccc5919fc7648aaf9e90dbf sre-registry.local:5000/ocp4:4.8.4-x86_64-gcp-pd-csi-driver
+sha256:e3bf5aca8392e6654f4336fef680f3ecfddbbafa0335b5b39c558c770accaa16 sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-policy-controller
+sha256:0bc31444cb1638c74c5731b77374978b34c7becee87807f5a6cf075626b87746 sre-registry.local:5000/ocp4:4.8.4-x86_64-driver-toolkit
+sha256:bad83a7baff83d0fdb014cefc3f7719898b6439333e3c52f81412ccf70f2be86 sre-registry.local:5000/ocp4:4.8.4-x86_64-azure-disk-csi-driver
+sha256:057aa895d73134f2dd104d9473d9eb3c41914e51ee5da1ff51833314843e506c sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-update-keys
+sha256:06445b0ae0da3993b8bbf74b6f98d18f3bce3ada6afbafdff446d7cea6c31aa0 sre-registry.local:5000/ocp4:4.8.4-x86_64-docker-registry
+sha256:76c74244fbe4ba30745dcabc1928f1d8aa53d40f0525502968879ae87d3f3748 sre-registry.local:5000/ocp4:4.8.4-x86_64-configmap-reloader
+sha256:169fb14145328e22e87febd4bd2357ada0b5ed6293a5cdbd12d9b99bca6c174b sre-registry.local:5000/ocp4:4.8.4-x86_64-jenkins
+sha256:d01a9173ec33161c09aa6e60e20a9a4e5213e2a6b643caa7df2e54e9641a7ecc sre-registry.local:5000/ocp4:4.8.4-x86_64-tests
+sha256:47298198befb74a1ce06bb49754a3e3b3599c00a50d98c5f252d257e6b3686be sre-registry.local:5000/ocp4:4.8.4-x86_64-kube-state-metrics
+sha256:5c6a92b46ce7a6c477f9072d2280eef1ad22f787f876929604ac99d15030fcae sre-registry.local:5000/ocp4:4.8.4-x86_64-csi-node-driver-registrar
+sha256:7ab0346b7ff58de373ea380dd6c38242741b5323698c30030094c33913876153 sre-registry.local:5000/ocp4:4.8.4-x86_64-etcd
+sha256:5c4dee6907f6257779ab7186155a945e64c51afd89cfc3252ca78cb17722b737 sre-registry.local:5000/ocp4:4.8.4-x86_64-aws-machine-controllers
+sha256:a6271a7ad7dc5170484557e184465f370e78d9b9a0694968f1de4ab6d7fc3afc sre-registry.local:5000/ocp4:4.8.4-x86_64-network-tools
+sha256:90a2381b1083aa91f1b635727d7852eb359405cf009ce11fc8dc726f0e00d43a sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-version-operator
+sha256:4e19bb6eee791d5920f9d8c1602ceebb0b9901f66ff76788333947e6178e891a sre-registry.local:5000/ocp4:4.8.4-x86_64-ironic
+sha256:6d57bfd91fac9b68eb72d27226bc297472ceb136c996628b845ecc54a48b31cb sre-registry.local:5000/ocp4:4.8.4-x86_64-kube-rbac-proxy
+sha256:f8d17c6d01836188a4e66023469a999bb07915adda3f5682283d9d719b4297b0 sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-machine-approver
+sha256:2369e22821cb8d09b826aeb9ff328d4bebe25aa2410b3084e7a7888c6f361da7 sre-registry.local:5000/ocp4:4.8.4-x86_64-operator-registry
+sha256:6eb96545d7bed1a5da8ff4c9673baf5ad29a44107b47d707285482264b5f75ed sre-registry.local:5000/ocp4:4.8.4-x86_64-console
+sha256:75b618dd985c940afe00c153398cfd552c3d8f9e85db13a50333034cd9904067 sre-registry.local:5000/ocp4:4.8.4-x86_64-hyperkube
+sha256:7581e70b16f8265b920f9e36d7994fc9634361a00abc588335ef4b25a649f555 sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-kube-apiserver-operator
+sha256:4216d49cd37cd02e52045718cf5cd2137eb85bd3e1afdb1f5f5a30f9802cfecd sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-ingress-operator
+sha256:a3af802116eb0187308b0de76225bb847aaef28935643b4cab31ada47537d2df sre-registry.local:5000/ocp4:4.8.4-x86_64-csi-snapshot-controller
+sha256:e24f456f14c631b240f69f2574e09da91e2f6a55e4c1722e5bf0bfc01d0c8d03 sre-registry.local:5000/ocp4:4.8.4-x86_64-operator-marketplace
+sha256:defb9435af74998eb9a4896591cfa83b0370fef4372c07662facd2ea7ef62d1a sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-kube-controller-manager-operator
+sha256:951a51b56371cd4cb3431ac8a1ef9d5f21a3374f14ff3734cae07fa5704b7b71 sre-registry.local:5000/ocp4:4.8.4-x86_64-vsphere-problem-detector
+sha256:ff5c0b6a2d78009e754bf4c07d87d1756736dd11b2c3dc3ee57c27563c54d8e8 sre-registry.local:5000/ocp4:4.8.4-x86_64-baremetal-installer
+sha256:279a3024378f77e9414f6c47b73e194053d6c45c3ebcc864ec92bbb035a88a61 sre-registry.local:5000/ocp4:4.8.4-x86_64-aws-ebs-csi-driver-operator
+sha256:b4679a3bd4d12edab07a0ba385f043cfd92260a0b5316f8e9627d64b52d7143b sre-registry.local:5000/ocp4:4.8.4-x86_64-service-ca-operator
+sha256:292f595f049de5f354996eb770f606f66d0923d703c2acd36122c1b218c3182d sre-registry.local:5000/ocp4:4.8.4-x86_64-openstack-cinder-csi-driver
+sha256:512a8d9ab81b1906e64335cb8af87e9fa6592b9069cee6af31ba46ee609822a2 sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-image-registry-operator
+sha256:ae2ef7fdb99e354178055dc2fe5f04fa686d03d230d55d303aa066942b3fbfcb sre-registry.local:5000/ocp4:4.8.4-x86_64-ovirt-csi-driver-operator
+sha256:6bd2b6790238c987cf73abd022e73f4c110fd0155d89a70ffea0ddcacc3293d1 sre-registry.local:5000/ocp4:4.8.4-x86_64-installer-artifacts
+sha256:45c41e3121b10fbaec38dafaa020212a3cede85029ac93f4bdfec72b5520e905 sre-registry.local:5000/ocp4:4.8.4-x86_64-multus-networkpolicy
+sha256:66199d922e72323288b6836c0f573e872f161335ee10ab9ab988adafcc0f7f41 sre-registry.local:5000/ocp4:4.8.4-x86_64-ironic-ipa-downloader
+sha256:79f43bb415f7eef211f416685257d60620efa749a7f1f250384650d0c481b12e sre-registry.local:5000/ocp4:4.8.4-x86_64-openshift-controller-manager
+sha256:056b8acf3829ccee3c1c85796443820e9a15fddcbeb787fa5d6e4d2514a178d3 sre-registry.local:5000/ocp4:4.8.4-x86_64-ovn-kubernetes
+sha256:eede85cbd33388f7e18954e5ce8ad9616e91df05ace604966c0a44111d85c897 sre-registry.local:5000/ocp4:4.8.4-x86_64-must-gather
+sha256:64e304eaf54ead86fb1042830814682fb7b0ca1961ddbdecc6b52ead15441fdc sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-authentication-operator
+sha256:c8f4b3d2bb5c9a80565fc37d2c6f402efa233f49051f89c11b65cfff09eda256 sre-registry.local:5000/ocp4:4.8.4-x86_64-oauth-apiserver
+sha256:4c779c08e10d60b365fec41b69dcab60e26f2f94a41e7e488d9a2432900d86c9 sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-autoscaler-operator
+sha256:c2b8e512288db109941a5bf0b3b28a7cd9a3ed0d22287b6faf05d124e49ff59c sre-registry.local:5000/ocp4:4.8.4-x86_64-jenkins-agent-maven
+sha256:6fcb37d1c32ef93a83c46c7fbca3878d9b2bd6049ddc3b162fc3a7d07ac2d1df sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-bootstrap
+sha256:272b194c6889337ce2315fa4da7c2f033203fe33f2753025813f6a49b318c8f9 sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-etcd-operator
+sha256:2d8977593f7d4a99fb9cd395d04f5e058d234aa761e5f5f4b11bad6e8a2a18ac sre-registry.local:5000/ocp4:4.8.4-x86_64-azure-machine-controllers
+sha256:841535acc09ca8412cd17e8f7702eceda1cac688ccc281278f108675c30de270 sre-registry.local:5000/ocp4:4.8.4-x86_64
+sha256:9e27631ffed84bc32715ca0f8cf9bb9dea6ad87720ecffde2da266c601d4dc7c sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-storage-operator
+sha256:bce86bfe3a594dec0670ae67828d3aeabda615e6e763a704ca029370ea5e97b8 sre-registry.local:5000/ocp4:4.8.4-x86_64-cluster-kube-storage-version-migrator-operator
+sha256:55189d415adb18e52efb09a8a9b6f017462b6b1a518262bd09a94537de45bbee sre-registry.local:5000/ocp4:4.8.4-x86_64-keepalived-ipfailover
+sha256:6dfcbcbff78acce4705d57f8472616f9abdec66b60600849a8397141ce6dc483 sre-registry.local:5000/ocp4:4.8.4-x86_64-multus-whereabouts-ipam-cni
+sha256:b35bd0d3274a47df1e3afb3dc97a41161d9e84336e0b35c1fd1b05ea2d774866 sre-registry.local:5000/ocp4:4.8.4-x86_64-baremetal-runtimecfg
+sha256:c053a54dc2e4ccac26a60757b680549033de21b1785dba2f5ef1ecd17aa3f58c sre-registry.local:5000/ocp4:4.8.4-x86_64-csi-external-resizer
+sha256:8bfdb27cd29e61d3aeefd43a7f2c66d1c8ee34c6be2332f7aa31c1f9772fa46e sre-registry.local:5000/ocp4:4.8.4-x86_64-ironic-machine-os-downloader
+sha256:011e0164b5655627a28e2af065a0e0a52aae83f281b4477c115640b5c5a985a7 sre-registry.local:5000/ocp4:4.8.4-x86_64-aws-ebs-csi-driver
+sha256:becc35ab6eef454cfb75e3e8da49245da530843bfce50ad072e7009004bee2ef sre-registry.local:5000/ocp4:4.8.4-x86_64-mdns-publisher
+info: Mirroring completed in 7m34.7s (20.64MB/s)
+
+Success
+Update image:  sre-registry.local:5000/ocp4:4.8.4-x86_64
+Mirror prefix: sre-registry.local:5000/ocp4
+Mirror prefix: sre-registry.local:5000/ocp4:4.8.4-x86_64
+
+To use the new mirrored repository to install, add the following section to the install-config.yaml:
+
+imageContentSources:
+- mirrors:
+  - sre-registry.local:5000/ocp4
+  source: quay.io/openshift-release-dev/ocp-release
+- mirrors:
+  - sre-registry.local:5000/ocp4
+  source: quay.io/openshift-release-dev/ocp-v4.0-art-dev
+
+
+To use the new mirrored repository for upgrades, use the following to create an ImageContentSourcePolicy:
+
+apiVersion: operator.openshift.io/v1alpha1
+kind: ImageContentSourcePolicy
+metadata:
+  name: example
+spec:
+  repositoryDigestMirrors:
+  - mirrors:
+    - sre-registry.local:5000/ocp4
+    source: quay.io/openshift-release-dev/ocp-release
+  - mirrors:
+    - sre-registry.local:5000/ocp4
+    source: quay.io/openshift-release-dev/ocp-v4.0-art-dev
